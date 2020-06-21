@@ -1,3 +1,4 @@
+# %load ../src/data/process_JH_data.py
 import pandas as pd
 import numpy as np
 
@@ -36,3 +37,4 @@ def store_relational_JH_data():
 if __name__ == '__main__':
 
     store_relational_JH_data()
+

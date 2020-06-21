@@ -39337,7 +39337,7 @@ date,state,country,confirmed
 4/18/20,,Bahrain,1773.0
 4/18/20,,Bangladesh,2144.0
 4/18/20,,Barbados,75.0
-4/18/20,,Belarus,4779.0
+4/18/20,,Belarus,5297.0
 4/18/20,,Belgium,37183.0
 4/18/20,,Belize,18.0
 4/18/20,,Benin,35.0
@@ -39603,7 +39603,7 @@ date,state,country,confirmed
 4/18/20,Zhejiang,Bahrain,1773.0
 4/18/20,Zhejiang,Bangladesh,2144.0
 4/18/20,Zhejiang,Barbados,75.0
-4/18/20,Zhejiang,Belarus,4779.0
+4/18/20,Zhejiang,Belarus,5297.0
 4/18/20,Zhejiang,Belgium,37183.0
 4/18/20,Zhejiang,Belize,18.0
 4/18/20,Zhejiang,Benin,35.0
@@ -39789,7 +39789,7 @@ date,state,country,confirmed
 4/19/20,,Bahrain,1881.0
 4/19/20,,Bangladesh,2456.0
 4/19/20,,Barbados,75.0
-4/19/20,,Belarus,4779.0
+4/19/20,,Belarus,5807.0
 4/19/20,,Belgium,38496.0
 4/19/20,,Belize,18.0
 4/19/20,,Benin,35.0
@@ -40055,7 +40055,7 @@ date,state,country,confirmed
 4/19/20,Zhejiang,Bahrain,1881.0
 4/19/20,Zhejiang,Bangladesh,2456.0
 4/19/20,Zhejiang,Barbados,75.0
-4/19/20,Zhejiang,Belarus,4779.0
+4/19/20,Zhejiang,Belarus,5807.0
 4/19/20,Zhejiang,Belgium,38496.0
 4/19/20,Zhejiang,Belize,18.0
 4/19/20,Zhejiang,Benin,35.0
@@ -64260,7 +64260,7 @@ date,state,country,confirmed
 6/12/20,,Honduras,8132.0
 6/12/20,,Hungary,4053.0
 6/12/20,,Iceland,1807.0
-6/12/20,,India,297535.0
+6/12/20,,India,308993.0
 6/12/20,,Indonesia,36406.0
 6/12/20,,Iran,182525.0
 6/12/20,,Iraq,17770.0
@@ -64526,7 +64526,7 @@ date,state,country,confirmed
 6/12/20,Zhejiang,Honduras,8132.0
 6/12/20,Zhejiang,Hungary,4053.0
 6/12/20,Zhejiang,Iceland,1807.0
-6/12/20,Zhejiang,India,297535.0
+6/12/20,Zhejiang,India,308993.0
 6/12/20,Zhejiang,Indonesia,36406.0
 6/12/20,Zhejiang,Iran,182525.0
 6/12/20,Zhejiang,Iraq,17770.0
@@ -64712,7 +64712,7 @@ date,state,country,confirmed
 6/13/20,,Honduras,8455.0
 6/13/20,,Hungary,4064.0
 6/13/20,,Iceland,1808.0
-6/13/20,,India,308993.0
+6/13/20,,India,320922.0
 6/13/20,,Indonesia,37420.0
 6/13/20,,Iran,184955.0
 6/13/20,,Iraq,18950.0
@@ -64978,7 +64978,7 @@ date,state,country,confirmed
 6/13/20,Zhejiang,Honduras,8455.0
 6/13/20,Zhejiang,Hungary,4064.0
 6/13/20,Zhejiang,Iceland,1808.0
-6/13/20,Zhejiang,India,308993.0
+6/13/20,Zhejiang,India,320922.0
 6/13/20,Zhejiang,Indonesia,37420.0
 6/13/20,Zhejiang,Iran,184955.0
 6/13/20,Zhejiang,Iraq,18950.0
@@ -65087,3 +65087,3167 @@ date,state,country,confirmed
 6/13/20,Zhejiang,Yemen,705.0
 6/13/20,Zhejiang,Zambia,1357.0
 6/13/20,Zhejiang,Zimbabwe,356.0
+6/14/20,,Afghanistan,24766.0
+6/14/20,,Albania,1521.0
+6/14/20,,Algeria,10919.0
+6/14/20,,Andorra,853.0
+6/14/20,,Angola,140.0
+6/14/20,,Antigua and Barbuda,26.0
+6/14/20,,Argentina,31577.0
+6/14/20,,Armenia,16667.0
+6/14/20,,Austria,17109.0
+6/14/20,,Azerbaijan,9957.0
+6/14/20,,Bahamas,103.0
+6/14/20,,Bahrain,18227.0
+6/14/20,,Bangladesh,87520.0
+6/14/20,,Barbados,96.0
+6/14/20,,Belarus,53973.0
+6/14/20,,Belgium,60029.0
+6/14/20,,Belize,20.0
+6/14/20,,Benin,442.0
+6/14/20,,Bhutan,66.0
+6/14/20,,Bolivia,18459.0
+6/14/20,,Bosnia and Herzegovina,2893.0
+6/14/20,,Botswana,60.0
+6/14/20,,Brazil,867624.0
+6/14/20,,Brunei,141.0
+6/14/20,,Bulgaria,3290.0
+6/14/20,,Burkina Faso,894.0
+6/14/20,,Burma,261.0
+6/14/20,,Burundi,85.0
+6/14/20,,Cabo Verde,750.0
+6/14/20,,Cambodia,128.0
+6/14/20,,Cameroon,8681.0
+6/14/20,,Central African Republic,2057.0
+6/14/20,,Chad,850.0
+6/14/20,,Chile,174293.0
+6/14/20,,China,1268.0
+6/14/20,,Colombia,48896.0
+6/14/20,,Comoros,176.0
+6/14/20,,Congo (Brazzaville),728.0
+6/14/20,,Congo (Kinshasa),4778.0
+6/14/20,,Costa Rica,1715.0
+6/14/20,,Cote d'Ivoire,5084.0
+6/14/20,,Croatia,2252.0
+6/14/20,,Cuba,2248.0
+6/14/20,,Cyprus,983.0
+6/14/20,,Czechia,10024.0
+6/14/20,,Denmark,12193.0
+6/14/20,,Diamond Princess,712.0
+6/14/20,,Djibouti,4465.0
+6/14/20,,Dominica,18.0
+6/14/20,,Dominican Republic,22962.0
+6/14/20,,Ecuador,46751.0
+6/14/20,,Egypt,44598.0
+6/14/20,,El Salvador,3720.0
+6/14/20,,Equatorial Guinea,1306.0
+6/14/20,,Eritrea,96.0
+6/14/20,,Estonia,1973.0
+6/14/20,,Eswatini,490.0
+6/14/20,,Ethiopia,3345.0
+6/14/20,,Fiji,18.0
+6/14/20,,Finland,7104.0
+6/14/20,,France,189602.0
+6/14/20,,Gabon,3463.0
+6/14/20,,Gambia,28.0
+6/14/20,,Georgia,864.0
+6/14/20,,Germany,187518.0
+6/14/20,,Ghana,11964.0
+6/14/20,,Greece,3121.0
+6/14/20,,Grenada,23.0
+6/14/20,,Guatemala,9845.0
+6/14/20,,Guinea,4532.0
+6/14/20,,Guinea-Bissau,1460.0
+6/14/20,,Guyana,159.0
+6/14/20,,Haiti,4165.0
+6/14/20,,Holy See,12.0
+6/14/20,,Honduras,8858.0
+6/14/20,,Hungary,4069.0
+6/14/20,,Iceland,1810.0
+6/14/20,,India,332424.0
+6/14/20,,Indonesia,38277.0
+6/14/20,,Iran,187427.0
+6/14/20,,Iraq,20209.0
+6/14/20,,Ireland,25303.0
+6/14/20,,Israel,19055.0
+6/14/20,,Italy,236989.0
+6/14/20,,Jamaica,617.0
+6/14/20,,Japan,17369.0
+6/14/20,,Jordan,961.0
+6/14/20,,Kazakhstan,14496.0
+6/14/20,,Kenya,3594.0
+6/14/20,,"Korea, South",12121.0
+6/14/20,,Kosovo,1437.0
+6/14/20,,Kuwait,35920.0
+6/14/20,,Kyrgyzstan,2285.0
+6/14/20,,Laos,19.0
+6/14/20,,Latvia,1097.0
+6/14/20,,Lebanon,1446.0
+6/14/20,,Lesotho,4.0
+6/14/20,,Liberia,458.0
+6/14/20,,Libya,454.0
+6/14/20,,Liechtenstein,82.0
+6/14/20,,Lithuania,1768.0
+6/14/20,,Luxembourg,4070.0
+6/14/20,,MS Zaandam,9.0
+6/14/20,,Madagascar,1272.0
+6/14/20,,Malawi,547.0
+6/14/20,,Malaysia,8453.0
+6/14/20,,Maldives,2035.0
+6/14/20,,Mali,1809.0
+6/14/20,,Malta,649.0
+6/14/20,,Mauritania,1783.0
+6/14/20,,Mauritius,337.0
+6/14/20,,Mexico,146837.0
+6/14/20,,Moldova,11740.0
+6/14/20,,Monaco,99.0
+6/14/20,,Mongolia,197.0
+6/14/20,,Montenegro,325.0
+6/14/20,,Morocco,8793.0
+6/14/20,,Mozambique,583.0
+6/14/20,,Namibia,32.0
+6/14/20,,Nepal,5760.0
+6/14/20,,Netherlands,48783.0
+6/14/20,,New Zealand,1504.0
+6/14/20,,Nicaragua,1464.0
+6/14/20,,Niger,980.0
+6/14/20,,Nigeria,16085.0
+6/14/20,,North Macedonia,4057.0
+6/14/20,,Norway,8631.0
+6/14/20,,Oman,23481.0
+6/14/20,,Pakistan,144478.0
+6/14/20,,Panama,21418.0
+6/14/20,,Papua New Guinea,8.0
+6/14/20,,Paraguay,1289.0
+6/14/20,,Peru,229736.0
+6/14/20,,Philippines,25930.0
+6/14/20,,Poland,29392.0
+6/14/20,,Portugal,36690.0
+6/14/20,,Qatar,79602.0
+6/14/20,,Romania,21999.0
+6/14/20,,Russia,528267.0
+6/14/20,,Rwanda,582.0
+6/14/20,,Saint Kitts and Nevis,15.0
+6/14/20,,Saint Lucia,19.0
+6/14/20,,Saint Vincent and the Grenadines,27.0
+6/14/20,,San Marino,694.0
+6/14/20,,Sao Tome and Principe,661.0
+6/14/20,,Saudi Arabia,127541.0
+6/14/20,,Senegal,5090.0
+6/14/20,,Serbia,12310.0
+6/14/20,,Seychelles,11.0
+6/14/20,,Sierra Leone,1169.0
+6/14/20,,Singapore,40604.0
+6/14/20,,Slovakia,1548.0
+6/14/20,,Slovenia,1495.0
+6/14/20,,Somalia,2618.0
+6/14/20,,South Africa,70038.0
+6/14/20,,South Sudan,1693.0
+6/14/20,,Spain,243928.0
+6/14/20,,Sri Lanka,1889.0
+6/14/20,,Sudan,7220.0
+6/14/20,,Suriname,208.0
+6/14/20,,Sweden,51614.0
+6/14/20,,Switzerland,31117.0
+6/14/20,,Syria,177.0
+6/14/20,,Taiwan*,443.0
+6/14/20,,Tajikistan,5035.0
+6/14/20,,Tanzania,509.0
+6/14/20,,Thailand,3135.0
+6/14/20,,Timor-Leste,24.0
+6/14/20,,Togo,530.0
+6/14/20,,Trinidad and Tobago,123.0
+6/14/20,,Tunisia,1096.0
+6/14/20,,Turkey,178239.0
+6/14/20,,US,2094058.0
+6/14/20,,Uganda,696.0
+6/14/20,,Ukraine,31851.0
+6/14/20,,United Arab Emirates,42294.0
+6/14/20,,United Kingdom,295889.0
+6/14/20,,Uruguay,848.0
+6/14/20,,Uzbekistan,5080.0
+6/14/20,,Venezuela,2978.0
+6/14/20,,Vietnam,334.0
+6/14/20,,West Bank and Gaza,492.0
+6/14/20,,Western Sahara,9.0
+6/14/20,,Yemen,728.0
+6/14/20,,Zambia,1358.0
+6/14/20,,Zimbabwe,383.0
+6/14/20,Alberta,Canada,7433.0
+6/14/20,Anguilla,United Kingdom,3.0
+6/14/20,Anhui,China,991.0
+6/14/20,Aruba,Netherlands,101.0
+6/14/20,Australian Capital Territory,Australia,108.0
+6/14/20,Beijing,China,673.0
+6/14/20,Bermuda,United Kingdom,142.0
+6/14/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/14/20,British Columbia,Canada,2709.0
+6/14/20,British Virgin Islands,United Kingdom,8.0
+6/14/20,Cayman Islands,United Kingdom,187.0
+6/14/20,Channel Islands,United Kingdom,565.0
+6/14/20,Chongqing,China,582.0
+6/14/20,Curacao,Netherlands,22.0
+6/14/20,Diamond Princess,Canada,0.0
+6/14/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/14/20,Faroe Islands,Denmark,187.0
+6/14/20,French Guiana,France,1255.0
+6/14/20,French Polynesia,France,60.0
+6/14/20,Fujian,China,362.0
+6/14/20,Gansu,China,139.0
+6/14/20,Gibraltar,United Kingdom,176.0
+6/14/20,Grand Princess,Canada,13.0
+6/14/20,Greenland,Denmark,13.0
+6/14/20,Guadeloupe,France,171.0
+6/14/20,Guangdong,China,1625.0
+6/14/20,Guangxi,China,254.0
+6/14/20,Guizhou,China,147.0
+6/14/20,Hainan,China,171.0
+6/14/20,Hebei,China,331.0
+6/14/20,Heilongjiang,China,947.0
+6/14/20,Henan,China,1276.0
+6/14/20,Hong Kong,China,1109.0
+6/14/20,Hubei,China,68135.0
+6/14/20,Hunan,China,1019.0
+6/14/20,Inner Mongolia,China,237.0
+6/14/20,Isle of Man,United Kingdom,336.0
+6/14/20,Jiangsu,China,653.0
+6/14/20,Jiangxi,China,932.0
+6/14/20,Jilin,China,155.0
+6/14/20,Liaoning,China,151.0
+6/14/20,Macau,China,45.0
+6/14/20,Manitoba,Canada,304.0
+6/14/20,Martinique,France,202.0
+6/14/20,Mayotte,France,2298.0
+6/14/20,Montserrat,United Kingdom,11.0
+6/14/20,New Brunswick,Canada,157.0
+6/14/20,New Caledonia,France,21.0
+6/14/20,New South Wales,Australia,3131.0
+6/14/20,Newfoundland and Labrador,Canada,261.0
+6/14/20,Ningxia,China,75.0
+6/14/20,Northern Territory,Australia,29.0
+6/14/20,Northwest Territories,Canada,5.0
+6/14/20,Nova Scotia,Canada,1061.0
+6/14/20,Ontario,Canada,33806.0
+6/14/20,Prince Edward Island,Canada,27.0
+6/14/20,Qinghai,China,18.0
+6/14/20,Quebec,Canada,53952.0
+6/14/20,Queensland,Australia,1065.0
+6/14/20,Reunion,France,495.0
+6/14/20,Saint Barthelemy,France,6.0
+6/14/20,Saint Pierre and Miquelon,France,1.0
+6/14/20,Saskatchewan,Canada,665.0
+6/14/20,Shaanxi,China,313.0
+6/14/20,Shandong,China,792.0
+6/14/20,Shanghai,China,692.0
+6/14/20,Shanxi,China,198.0
+6/14/20,Sichuan,China,587.0
+6/14/20,Sint Maarten,Netherlands,77.0
+6/14/20,South Australia,Australia,440.0
+6/14/20,St Martin,France,42.0
+6/14/20,Tasmania,Australia,228.0
+6/14/20,Tianjin,China,196.0
+6/14/20,Tibet,China,1.0
+6/14/20,Turks and Caicos Islands,United Kingdom,12.0
+6/14/20,Victoria,Australia,1732.0
+6/14/20,Western Australia,Australia,602.0
+6/14/20,Xinjiang,China,76.0
+6/14/20,Yukon,Canada,11.0
+6/14/20,Yunnan,China,185.0
+6/14/20,Zhejiang,Afghanistan,24766.0
+6/14/20,Zhejiang,Albania,1521.0
+6/14/20,Zhejiang,Algeria,10919.0
+6/14/20,Zhejiang,Andorra,853.0
+6/14/20,Zhejiang,Angola,140.0
+6/14/20,Zhejiang,Antigua and Barbuda,26.0
+6/14/20,Zhejiang,Argentina,31577.0
+6/14/20,Zhejiang,Armenia,16667.0
+6/14/20,Zhejiang,Austria,17109.0
+6/14/20,Zhejiang,Azerbaijan,9957.0
+6/14/20,Zhejiang,Bahamas,103.0
+6/14/20,Zhejiang,Bahrain,18227.0
+6/14/20,Zhejiang,Bangladesh,87520.0
+6/14/20,Zhejiang,Barbados,96.0
+6/14/20,Zhejiang,Belarus,53973.0
+6/14/20,Zhejiang,Belgium,60029.0
+6/14/20,Zhejiang,Belize,20.0
+6/14/20,Zhejiang,Benin,442.0
+6/14/20,Zhejiang,Bhutan,66.0
+6/14/20,Zhejiang,Bolivia,18459.0
+6/14/20,Zhejiang,Bosnia and Herzegovina,2893.0
+6/14/20,Zhejiang,Botswana,60.0
+6/14/20,Zhejiang,Brazil,867624.0
+6/14/20,Zhejiang,Brunei,141.0
+6/14/20,Zhejiang,Bulgaria,3290.0
+6/14/20,Zhejiang,Burkina Faso,894.0
+6/14/20,Zhejiang,Burma,261.0
+6/14/20,Zhejiang,Burundi,85.0
+6/14/20,Zhejiang,Cabo Verde,750.0
+6/14/20,Zhejiang,Cambodia,128.0
+6/14/20,Zhejiang,Cameroon,8681.0
+6/14/20,Zhejiang,Central African Republic,2057.0
+6/14/20,Zhejiang,Chad,850.0
+6/14/20,Zhejiang,Chile,174293.0
+6/14/20,Zhejiang,China,1268.0
+6/14/20,Zhejiang,Colombia,48896.0
+6/14/20,Zhejiang,Comoros,176.0
+6/14/20,Zhejiang,Congo (Brazzaville),728.0
+6/14/20,Zhejiang,Congo (Kinshasa),4778.0
+6/14/20,Zhejiang,Costa Rica,1715.0
+6/14/20,Zhejiang,Cote d'Ivoire,5084.0
+6/14/20,Zhejiang,Croatia,2252.0
+6/14/20,Zhejiang,Cuba,2248.0
+6/14/20,Zhejiang,Cyprus,983.0
+6/14/20,Zhejiang,Czechia,10024.0
+6/14/20,Zhejiang,Denmark,12193.0
+6/14/20,Zhejiang,Diamond Princess,712.0
+6/14/20,Zhejiang,Djibouti,4465.0
+6/14/20,Zhejiang,Dominica,18.0
+6/14/20,Zhejiang,Dominican Republic,22962.0
+6/14/20,Zhejiang,Ecuador,46751.0
+6/14/20,Zhejiang,Egypt,44598.0
+6/14/20,Zhejiang,El Salvador,3720.0
+6/14/20,Zhejiang,Equatorial Guinea,1306.0
+6/14/20,Zhejiang,Eritrea,96.0
+6/14/20,Zhejiang,Estonia,1973.0
+6/14/20,Zhejiang,Eswatini,490.0
+6/14/20,Zhejiang,Ethiopia,3345.0
+6/14/20,Zhejiang,Fiji,18.0
+6/14/20,Zhejiang,Finland,7104.0
+6/14/20,Zhejiang,France,189602.0
+6/14/20,Zhejiang,Gabon,3463.0
+6/14/20,Zhejiang,Gambia,28.0
+6/14/20,Zhejiang,Georgia,864.0
+6/14/20,Zhejiang,Germany,187518.0
+6/14/20,Zhejiang,Ghana,11964.0
+6/14/20,Zhejiang,Greece,3121.0
+6/14/20,Zhejiang,Grenada,23.0
+6/14/20,Zhejiang,Guatemala,9845.0
+6/14/20,Zhejiang,Guinea,4532.0
+6/14/20,Zhejiang,Guinea-Bissau,1460.0
+6/14/20,Zhejiang,Guyana,159.0
+6/14/20,Zhejiang,Haiti,4165.0
+6/14/20,Zhejiang,Holy See,12.0
+6/14/20,Zhejiang,Honduras,8858.0
+6/14/20,Zhejiang,Hungary,4069.0
+6/14/20,Zhejiang,Iceland,1810.0
+6/14/20,Zhejiang,India,332424.0
+6/14/20,Zhejiang,Indonesia,38277.0
+6/14/20,Zhejiang,Iran,187427.0
+6/14/20,Zhejiang,Iraq,20209.0
+6/14/20,Zhejiang,Ireland,25303.0
+6/14/20,Zhejiang,Israel,19055.0
+6/14/20,Zhejiang,Italy,236989.0
+6/14/20,Zhejiang,Jamaica,617.0
+6/14/20,Zhejiang,Japan,17369.0
+6/14/20,Zhejiang,Jordan,961.0
+6/14/20,Zhejiang,Kazakhstan,14496.0
+6/14/20,Zhejiang,Kenya,3594.0
+6/14/20,Zhejiang,"Korea, South",12121.0
+6/14/20,Zhejiang,Kosovo,1437.0
+6/14/20,Zhejiang,Kuwait,35920.0
+6/14/20,Zhejiang,Kyrgyzstan,2285.0
+6/14/20,Zhejiang,Laos,19.0
+6/14/20,Zhejiang,Latvia,1097.0
+6/14/20,Zhejiang,Lebanon,1446.0
+6/14/20,Zhejiang,Lesotho,4.0
+6/14/20,Zhejiang,Liberia,458.0
+6/14/20,Zhejiang,Libya,454.0
+6/14/20,Zhejiang,Liechtenstein,82.0
+6/14/20,Zhejiang,Lithuania,1768.0
+6/14/20,Zhejiang,Luxembourg,4070.0
+6/14/20,Zhejiang,MS Zaandam,9.0
+6/14/20,Zhejiang,Madagascar,1272.0
+6/14/20,Zhejiang,Malawi,547.0
+6/14/20,Zhejiang,Malaysia,8453.0
+6/14/20,Zhejiang,Maldives,2035.0
+6/14/20,Zhejiang,Mali,1809.0
+6/14/20,Zhejiang,Malta,649.0
+6/14/20,Zhejiang,Mauritania,1783.0
+6/14/20,Zhejiang,Mauritius,337.0
+6/14/20,Zhejiang,Mexico,146837.0
+6/14/20,Zhejiang,Moldova,11740.0
+6/14/20,Zhejiang,Monaco,99.0
+6/14/20,Zhejiang,Mongolia,197.0
+6/14/20,Zhejiang,Montenegro,325.0
+6/14/20,Zhejiang,Morocco,8793.0
+6/14/20,Zhejiang,Mozambique,583.0
+6/14/20,Zhejiang,Namibia,32.0
+6/14/20,Zhejiang,Nepal,5760.0
+6/14/20,Zhejiang,Netherlands,48783.0
+6/14/20,Zhejiang,New Zealand,1504.0
+6/14/20,Zhejiang,Nicaragua,1464.0
+6/14/20,Zhejiang,Niger,980.0
+6/14/20,Zhejiang,Nigeria,16085.0
+6/14/20,Zhejiang,North Macedonia,4057.0
+6/14/20,Zhejiang,Norway,8631.0
+6/14/20,Zhejiang,Oman,23481.0
+6/14/20,Zhejiang,Pakistan,144478.0
+6/14/20,Zhejiang,Panama,21418.0
+6/14/20,Zhejiang,Papua New Guinea,8.0
+6/14/20,Zhejiang,Paraguay,1289.0
+6/14/20,Zhejiang,Peru,229736.0
+6/14/20,Zhejiang,Philippines,25930.0
+6/14/20,Zhejiang,Poland,29392.0
+6/14/20,Zhejiang,Portugal,36690.0
+6/14/20,Zhejiang,Qatar,79602.0
+6/14/20,Zhejiang,Romania,21999.0
+6/14/20,Zhejiang,Russia,528267.0
+6/14/20,Zhejiang,Rwanda,582.0
+6/14/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/14/20,Zhejiang,Saint Lucia,19.0
+6/14/20,Zhejiang,Saint Vincent and the Grenadines,27.0
+6/14/20,Zhejiang,San Marino,694.0
+6/14/20,Zhejiang,Sao Tome and Principe,661.0
+6/14/20,Zhejiang,Saudi Arabia,127541.0
+6/14/20,Zhejiang,Senegal,5090.0
+6/14/20,Zhejiang,Serbia,12310.0
+6/14/20,Zhejiang,Seychelles,11.0
+6/14/20,Zhejiang,Sierra Leone,1169.0
+6/14/20,Zhejiang,Singapore,40604.0
+6/14/20,Zhejiang,Slovakia,1548.0
+6/14/20,Zhejiang,Slovenia,1495.0
+6/14/20,Zhejiang,Somalia,2618.0
+6/14/20,Zhejiang,South Africa,70038.0
+6/14/20,Zhejiang,South Sudan,1693.0
+6/14/20,Zhejiang,Spain,243928.0
+6/14/20,Zhejiang,Sri Lanka,1889.0
+6/14/20,Zhejiang,Sudan,7220.0
+6/14/20,Zhejiang,Suriname,208.0
+6/14/20,Zhejiang,Sweden,51614.0
+6/14/20,Zhejiang,Switzerland,31117.0
+6/14/20,Zhejiang,Syria,177.0
+6/14/20,Zhejiang,Taiwan*,443.0
+6/14/20,Zhejiang,Tajikistan,5035.0
+6/14/20,Zhejiang,Tanzania,509.0
+6/14/20,Zhejiang,Thailand,3135.0
+6/14/20,Zhejiang,Timor-Leste,24.0
+6/14/20,Zhejiang,Togo,530.0
+6/14/20,Zhejiang,Trinidad and Tobago,123.0
+6/14/20,Zhejiang,Tunisia,1096.0
+6/14/20,Zhejiang,Turkey,178239.0
+6/14/20,Zhejiang,US,2094058.0
+6/14/20,Zhejiang,Uganda,696.0
+6/14/20,Zhejiang,Ukraine,31851.0
+6/14/20,Zhejiang,United Arab Emirates,42294.0
+6/14/20,Zhejiang,United Kingdom,295889.0
+6/14/20,Zhejiang,Uruguay,848.0
+6/14/20,Zhejiang,Uzbekistan,5080.0
+6/14/20,Zhejiang,Venezuela,2978.0
+6/14/20,Zhejiang,Vietnam,334.0
+6/14/20,Zhejiang,West Bank and Gaza,492.0
+6/14/20,Zhejiang,Western Sahara,9.0
+6/14/20,Zhejiang,Yemen,728.0
+6/14/20,Zhejiang,Zambia,1358.0
+6/14/20,Zhejiang,Zimbabwe,383.0
+6/15/20,,Afghanistan,25527.0
+6/15/20,,Albania,1590.0
+6/15/20,,Algeria,11031.0
+6/15/20,,Andorra,853.0
+6/15/20,,Angola,142.0
+6/15/20,,Antigua and Barbuda,26.0
+6/15/20,,Argentina,32785.0
+6/15/20,,Armenia,17064.0
+6/15/20,,Austria,17135.0
+6/15/20,,Azerbaijan,10324.0
+6/15/20,,Bahamas,103.0
+6/15/20,,Bahrain,19013.0
+6/15/20,,Bangladesh,90619.0
+6/15/20,,Barbados,97.0
+6/15/20,,Belarus,54680.0
+6/15/20,,Belgium,60100.0
+6/15/20,,Belize,21.0
+6/15/20,,Benin,483.0
+6/15/20,,Bhutan,67.0
+6/15/20,,Bolivia,19073.0
+6/15/20,,Bosnia and Herzegovina,3040.0
+6/15/20,,Botswana,60.0
+6/15/20,,Brazil,888271.0
+6/15/20,,Brunei,141.0
+6/15/20,,Bulgaria,3341.0
+6/15/20,,Burkina Faso,894.0
+6/15/20,,Burma,262.0
+6/15/20,,Burundi,85.0
+6/15/20,,Cabo Verde,760.0
+6/15/20,,Cambodia,128.0
+6/15/20,,Cameroon,9864.0
+6/15/20,,Central African Republic,2222.0
+6/15/20,,Chad,850.0
+6/15/20,,Chile,179436.0
+6/15/20,,China,1268.0
+6/15/20,,Colombia,53168.0
+6/15/20,,Comoros,176.0
+6/15/20,,Congo (Brazzaville),883.0
+6/15/20,,Congo (Kinshasa),4837.0
+6/15/20,,Costa Rica,1744.0
+6/15/20,,Cote d'Ivoire,5439.0
+6/15/20,,Croatia,2254.0
+6/15/20,,Cuba,2262.0
+6/15/20,,Cyprus,985.0
+6/15/20,,Czechia,10064.0
+6/15/20,,Denmark,12217.0
+6/15/20,,Diamond Princess,712.0
+6/15/20,,Djibouti,4501.0
+6/15/20,,Dominica,18.0
+6/15/20,,Dominican Republic,23271.0
+6/15/20,,Ecuador,47322.0
+6/15/20,,Egypt,46289.0
+6/15/20,,El Salvador,3826.0
+6/15/20,,Equatorial Guinea,1306.0
+6/15/20,,Eritrea,109.0
+6/15/20,,Estonia,1974.0
+6/15/20,,Eswatini,506.0
+6/15/20,,Ethiopia,3521.0
+6/15/20,,Fiji,18.0
+6/15/20,,Finland,7108.0
+6/15/20,,France,189670.0
+6/15/20,,Gabon,4033.0
+6/15/20,,Gambia,30.0
+6/15/20,,Georgia,879.0
+6/15/20,,Germany,187682.0
+6/15/20,,Ghana,11964.0
+6/15/20,,Greece,3134.0
+6/15/20,,Grenada,23.0
+6/15/20,,Guatemala,10272.0
+6/15/20,,Guinea,4572.0
+6/15/20,,Guinea-Bissau,1492.0
+6/15/20,,Guyana,159.0
+6/15/20,,Haiti,4441.0
+6/15/20,,Holy See,12.0
+6/15/20,,Honduras,9178.0
+6/15/20,,Hungary,4076.0
+6/15/20,,Iceland,1810.0
+6/15/20,,India,343091.0
+6/15/20,,Indonesia,39294.0
+6/15/20,,Iran,189876.0
+6/15/20,,Iraq,21315.0
+6/15/20,,Ireland,25321.0
+6/15/20,,Israel,19237.0
+6/15/20,,Italy,237290.0
+6/15/20,,Jamaica,621.0
+6/15/20,,Japan,17439.0
+6/15/20,,Jordan,979.0
+6/15/20,,Kazakhstan,15192.0
+6/15/20,,Kenya,3727.0
+6/15/20,,"Korea, South",12155.0
+6/15/20,,Kosovo,1486.0
+6/15/20,,Kuwait,36431.0
+6/15/20,,Kyrgyzstan,2472.0
+6/15/20,,Laos,19.0
+6/15/20,,Latvia,1097.0
+6/15/20,,Lebanon,1464.0
+6/15/20,,Lesotho,4.0
+6/15/20,,Liberia,498.0
+6/15/20,,Libya,467.0
+6/15/20,,Liechtenstein,82.0
+6/15/20,,Lithuania,1773.0
+6/15/20,,Luxembourg,4072.0
+6/15/20,,MS Zaandam,9.0
+6/15/20,,Madagascar,1290.0
+6/15/20,,Malawi,555.0
+6/15/20,,Malaysia,8494.0
+6/15/20,,Maldives,2065.0
+6/15/20,,Mali,1860.0
+6/15/20,,Malta,650.0
+6/15/20,,Mauritania,1887.0
+6/15/20,,Mauritius,337.0
+6/15/20,,Mexico,150264.0
+6/15/20,,Moldova,11879.0
+6/15/20,,Monaco,99.0
+6/15/20,,Mongolia,197.0
+6/15/20,,Montenegro,326.0
+6/15/20,,Morocco,8885.0
+6/15/20,,Mozambique,609.0
+6/15/20,,Namibia,32.0
+6/15/20,,Nepal,6211.0
+6/15/20,,Netherlands,48948.0
+6/15/20,,New Zealand,1506.0
+6/15/20,,Nicaragua,1464.0
+6/15/20,,Niger,980.0
+6/15/20,,Nigeria,16658.0
+6/15/20,,North Macedonia,4157.0
+6/15/20,,Norway,8647.0
+6/15/20,,Oman,24524.0
+6/15/20,,Pakistan,148921.0
+6/15/20,,Panama,21422.0
+6/15/20,,Papua New Guinea,8.0
+6/15/20,,Paraguay,1296.0
+6/15/20,,Peru,232992.0
+6/15/20,,Philippines,26420.0
+6/15/20,,Poland,29788.0
+6/15/20,,Portugal,37036.0
+6/15/20,,Qatar,80876.0
+6/15/20,,Romania,22165.0
+6/15/20,,Russia,536484.0
+6/15/20,,Rwanda,612.0
+6/15/20,,Saint Kitts and Nevis,15.0
+6/15/20,,Saint Lucia,19.0
+6/15/20,,Saint Vincent and the Grenadines,27.0
+6/15/20,,San Marino,694.0
+6/15/20,,Sao Tome and Principe,662.0
+6/15/20,,Saudi Arabia,132048.0
+6/15/20,,Senegal,5173.0
+6/15/20,,Serbia,12367.0
+6/15/20,,Seychelles,11.0
+6/15/20,,Sierra Leone,1176.0
+6/15/20,,Singapore,40818.0
+6/15/20,,Slovakia,1552.0
+6/15/20,,Slovenia,1496.0
+6/15/20,,Somalia,2642.0
+6/15/20,,South Africa,73533.0
+6/15/20,,South Sudan,1693.0
+6/15/20,,Spain,244109.0
+6/15/20,,Sri Lanka,1905.0
+6/15/20,,Sudan,7435.0
+6/15/20,,Suriname,229.0
+6/15/20,,Sweden,52383.0
+6/15/20,,Switzerland,31131.0
+6/15/20,,Syria,177.0
+6/15/20,,Taiwan*,445.0
+6/15/20,,Tajikistan,5097.0
+6/15/20,,Tanzania,509.0
+6/15/20,,Thailand,3135.0
+6/15/20,,Timor-Leste,24.0
+6/15/20,,Togo,531.0
+6/15/20,,Trinidad and Tobago,123.0
+6/15/20,,Tunisia,1110.0
+6/15/20,,Turkey,179831.0
+6/15/20,,US,2114026.0
+6/15/20,,Uganda,705.0
+6/15/20,,Ukraine,32536.0
+6/15/20,,United Arab Emirates,42636.0
+6/15/20,,United Kingdom,296857.0
+6/15/20,,Uruguay,848.0
+6/15/20,,Uzbekistan,5263.0
+6/15/20,,Venezuela,3062.0
+6/15/20,,Vietnam,334.0
+6/15/20,,West Bank and Gaza,505.0
+6/15/20,,Western Sahara,9.0
+6/15/20,,Yemen,844.0
+6/15/20,,Zambia,1382.0
+6/15/20,,Zimbabwe,387.0
+6/15/20,Alberta,Canada,7453.0
+6/15/20,Anguilla,United Kingdom,3.0
+6/15/20,Anhui,China,991.0
+6/15/20,Aruba,Netherlands,101.0
+6/15/20,Australian Capital Territory,Australia,108.0
+6/15/20,Beijing,China,700.0
+6/15/20,Bermuda,United Kingdom,144.0
+6/15/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/15/20,British Columbia,Canada,2745.0
+6/15/20,British Virgin Islands,United Kingdom,8.0
+6/15/20,Cayman Islands,United Kingdom,187.0
+6/15/20,Channel Islands,United Kingdom,568.0
+6/15/20,Chongqing,China,582.0
+6/15/20,Curacao,Netherlands,22.0
+6/15/20,Diamond Princess,Canada,0.0
+6/15/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/15/20,Faroe Islands,Denmark,187.0
+6/15/20,French Guiana,France,1326.0
+6/15/20,French Polynesia,France,60.0
+6/15/20,Fujian,China,362.0
+6/15/20,Gansu,China,139.0
+6/15/20,Gibraltar,United Kingdom,176.0
+6/15/20,Grand Princess,Canada,13.0
+6/15/20,Greenland,Denmark,13.0
+6/15/20,Guadeloupe,France,171.0
+6/15/20,Guangdong,China,1628.0
+6/15/20,Guangxi,China,254.0
+6/15/20,Guizhou,China,147.0
+6/15/20,Hainan,China,171.0
+6/15/20,Hebei,China,335.0
+6/15/20,Heilongjiang,China,947.0
+6/15/20,Henan,China,1276.0
+6/15/20,Hong Kong,China,1112.0
+6/15/20,Hubei,China,68135.0
+6/15/20,Hunan,China,1019.0
+6/15/20,Inner Mongolia,China,238.0
+6/15/20,Isle of Man,United Kingdom,336.0
+6/15/20,Jiangsu,China,653.0
+6/15/20,Jiangxi,China,932.0
+6/15/20,Jilin,China,155.0
+6/15/20,Liaoning,China,152.0
+6/15/20,Macau,China,45.0
+6/15/20,Manitoba,Canada,304.0
+6/15/20,Martinique,France,202.0
+6/15/20,Mayotte,France,2310.0
+6/15/20,Montserrat,United Kingdom,11.0
+6/15/20,New Brunswick,Canada,160.0
+6/15/20,New Caledonia,France,21.0
+6/15/20,New South Wales,Australia,3134.0
+6/15/20,Newfoundland and Labrador,Canada,261.0
+6/15/20,Ningxia,China,75.0
+6/15/20,Northern Territory,Australia,29.0
+6/15/20,Northwest Territories,Canada,5.0
+6/15/20,Nova Scotia,Canada,1061.0
+6/15/20,Ontario,Canada,33986.0
+6/15/20,Prince Edward Island,Canada,27.0
+6/15/20,Qinghai,China,18.0
+6/15/20,Quebec,Canada,54054.0
+6/15/20,Queensland,Australia,1065.0
+6/15/20,Reunion,France,496.0
+6/15/20,Saint Barthelemy,France,6.0
+6/15/20,Saint Pierre and Miquelon,France,1.0
+6/15/20,Saskatchewan,Canada,683.0
+6/15/20,Shaanxi,China,313.0
+6/15/20,Shandong,China,792.0
+6/15/20,Shanghai,China,695.0
+6/15/20,Shanxi,China,198.0
+6/15/20,Sichuan,China,588.0
+6/15/20,Sint Maarten,Netherlands,77.0
+6/15/20,South Australia,Australia,440.0
+6/15/20,St Martin,France,42.0
+6/15/20,Tasmania,Australia,228.0
+6/15/20,Tianjin,China,196.0
+6/15/20,Tibet,China,1.0
+6/15/20,Turks and Caicos Islands,United Kingdom,12.0
+6/15/20,Victoria,Australia,1741.0
+6/15/20,Western Australia,Australia,602.0
+6/15/20,Xinjiang,China,76.0
+6/15/20,Yukon,Canada,11.0
+6/15/20,Yunnan,China,185.0
+6/15/20,Zhejiang,Afghanistan,25527.0
+6/15/20,Zhejiang,Albania,1590.0
+6/15/20,Zhejiang,Algeria,11031.0
+6/15/20,Zhejiang,Andorra,853.0
+6/15/20,Zhejiang,Angola,142.0
+6/15/20,Zhejiang,Antigua and Barbuda,26.0
+6/15/20,Zhejiang,Argentina,32785.0
+6/15/20,Zhejiang,Armenia,17064.0
+6/15/20,Zhejiang,Austria,17135.0
+6/15/20,Zhejiang,Azerbaijan,10324.0
+6/15/20,Zhejiang,Bahamas,103.0
+6/15/20,Zhejiang,Bahrain,19013.0
+6/15/20,Zhejiang,Bangladesh,90619.0
+6/15/20,Zhejiang,Barbados,97.0
+6/15/20,Zhejiang,Belarus,54680.0
+6/15/20,Zhejiang,Belgium,60100.0
+6/15/20,Zhejiang,Belize,21.0
+6/15/20,Zhejiang,Benin,483.0
+6/15/20,Zhejiang,Bhutan,67.0
+6/15/20,Zhejiang,Bolivia,19073.0
+6/15/20,Zhejiang,Bosnia and Herzegovina,3040.0
+6/15/20,Zhejiang,Botswana,60.0
+6/15/20,Zhejiang,Brazil,888271.0
+6/15/20,Zhejiang,Brunei,141.0
+6/15/20,Zhejiang,Bulgaria,3341.0
+6/15/20,Zhejiang,Burkina Faso,894.0
+6/15/20,Zhejiang,Burma,262.0
+6/15/20,Zhejiang,Burundi,85.0
+6/15/20,Zhejiang,Cabo Verde,760.0
+6/15/20,Zhejiang,Cambodia,128.0
+6/15/20,Zhejiang,Cameroon,9864.0
+6/15/20,Zhejiang,Central African Republic,2222.0
+6/15/20,Zhejiang,Chad,850.0
+6/15/20,Zhejiang,Chile,179436.0
+6/15/20,Zhejiang,China,1268.0
+6/15/20,Zhejiang,Colombia,53168.0
+6/15/20,Zhejiang,Comoros,176.0
+6/15/20,Zhejiang,Congo (Brazzaville),883.0
+6/15/20,Zhejiang,Congo (Kinshasa),4837.0
+6/15/20,Zhejiang,Costa Rica,1744.0
+6/15/20,Zhejiang,Cote d'Ivoire,5439.0
+6/15/20,Zhejiang,Croatia,2254.0
+6/15/20,Zhejiang,Cuba,2262.0
+6/15/20,Zhejiang,Cyprus,985.0
+6/15/20,Zhejiang,Czechia,10064.0
+6/15/20,Zhejiang,Denmark,12217.0
+6/15/20,Zhejiang,Diamond Princess,712.0
+6/15/20,Zhejiang,Djibouti,4501.0
+6/15/20,Zhejiang,Dominica,18.0
+6/15/20,Zhejiang,Dominican Republic,23271.0
+6/15/20,Zhejiang,Ecuador,47322.0
+6/15/20,Zhejiang,Egypt,46289.0
+6/15/20,Zhejiang,El Salvador,3826.0
+6/15/20,Zhejiang,Equatorial Guinea,1306.0
+6/15/20,Zhejiang,Eritrea,109.0
+6/15/20,Zhejiang,Estonia,1974.0
+6/15/20,Zhejiang,Eswatini,506.0
+6/15/20,Zhejiang,Ethiopia,3521.0
+6/15/20,Zhejiang,Fiji,18.0
+6/15/20,Zhejiang,Finland,7108.0
+6/15/20,Zhejiang,France,189670.0
+6/15/20,Zhejiang,Gabon,4033.0
+6/15/20,Zhejiang,Gambia,30.0
+6/15/20,Zhejiang,Georgia,879.0
+6/15/20,Zhejiang,Germany,187682.0
+6/15/20,Zhejiang,Ghana,11964.0
+6/15/20,Zhejiang,Greece,3134.0
+6/15/20,Zhejiang,Grenada,23.0
+6/15/20,Zhejiang,Guatemala,10272.0
+6/15/20,Zhejiang,Guinea,4572.0
+6/15/20,Zhejiang,Guinea-Bissau,1492.0
+6/15/20,Zhejiang,Guyana,159.0
+6/15/20,Zhejiang,Haiti,4441.0
+6/15/20,Zhejiang,Holy See,12.0
+6/15/20,Zhejiang,Honduras,9178.0
+6/15/20,Zhejiang,Hungary,4076.0
+6/15/20,Zhejiang,Iceland,1810.0
+6/15/20,Zhejiang,India,343091.0
+6/15/20,Zhejiang,Indonesia,39294.0
+6/15/20,Zhejiang,Iran,189876.0
+6/15/20,Zhejiang,Iraq,21315.0
+6/15/20,Zhejiang,Ireland,25321.0
+6/15/20,Zhejiang,Israel,19237.0
+6/15/20,Zhejiang,Italy,237290.0
+6/15/20,Zhejiang,Jamaica,621.0
+6/15/20,Zhejiang,Japan,17439.0
+6/15/20,Zhejiang,Jordan,979.0
+6/15/20,Zhejiang,Kazakhstan,15192.0
+6/15/20,Zhejiang,Kenya,3727.0
+6/15/20,Zhejiang,"Korea, South",12155.0
+6/15/20,Zhejiang,Kosovo,1486.0
+6/15/20,Zhejiang,Kuwait,36431.0
+6/15/20,Zhejiang,Kyrgyzstan,2472.0
+6/15/20,Zhejiang,Laos,19.0
+6/15/20,Zhejiang,Latvia,1097.0
+6/15/20,Zhejiang,Lebanon,1464.0
+6/15/20,Zhejiang,Lesotho,4.0
+6/15/20,Zhejiang,Liberia,498.0
+6/15/20,Zhejiang,Libya,467.0
+6/15/20,Zhejiang,Liechtenstein,82.0
+6/15/20,Zhejiang,Lithuania,1773.0
+6/15/20,Zhejiang,Luxembourg,4072.0
+6/15/20,Zhejiang,MS Zaandam,9.0
+6/15/20,Zhejiang,Madagascar,1290.0
+6/15/20,Zhejiang,Malawi,555.0
+6/15/20,Zhejiang,Malaysia,8494.0
+6/15/20,Zhejiang,Maldives,2065.0
+6/15/20,Zhejiang,Mali,1860.0
+6/15/20,Zhejiang,Malta,650.0
+6/15/20,Zhejiang,Mauritania,1887.0
+6/15/20,Zhejiang,Mauritius,337.0
+6/15/20,Zhejiang,Mexico,150264.0
+6/15/20,Zhejiang,Moldova,11879.0
+6/15/20,Zhejiang,Monaco,99.0
+6/15/20,Zhejiang,Mongolia,197.0
+6/15/20,Zhejiang,Montenegro,326.0
+6/15/20,Zhejiang,Morocco,8885.0
+6/15/20,Zhejiang,Mozambique,609.0
+6/15/20,Zhejiang,Namibia,32.0
+6/15/20,Zhejiang,Nepal,6211.0
+6/15/20,Zhejiang,Netherlands,48948.0
+6/15/20,Zhejiang,New Zealand,1506.0
+6/15/20,Zhejiang,Nicaragua,1464.0
+6/15/20,Zhejiang,Niger,980.0
+6/15/20,Zhejiang,Nigeria,16658.0
+6/15/20,Zhejiang,North Macedonia,4157.0
+6/15/20,Zhejiang,Norway,8647.0
+6/15/20,Zhejiang,Oman,24524.0
+6/15/20,Zhejiang,Pakistan,148921.0
+6/15/20,Zhejiang,Panama,21422.0
+6/15/20,Zhejiang,Papua New Guinea,8.0
+6/15/20,Zhejiang,Paraguay,1296.0
+6/15/20,Zhejiang,Peru,232992.0
+6/15/20,Zhejiang,Philippines,26420.0
+6/15/20,Zhejiang,Poland,29788.0
+6/15/20,Zhejiang,Portugal,37036.0
+6/15/20,Zhejiang,Qatar,80876.0
+6/15/20,Zhejiang,Romania,22165.0
+6/15/20,Zhejiang,Russia,536484.0
+6/15/20,Zhejiang,Rwanda,612.0
+6/15/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/15/20,Zhejiang,Saint Lucia,19.0
+6/15/20,Zhejiang,Saint Vincent and the Grenadines,27.0
+6/15/20,Zhejiang,San Marino,694.0
+6/15/20,Zhejiang,Sao Tome and Principe,662.0
+6/15/20,Zhejiang,Saudi Arabia,132048.0
+6/15/20,Zhejiang,Senegal,5173.0
+6/15/20,Zhejiang,Serbia,12367.0
+6/15/20,Zhejiang,Seychelles,11.0
+6/15/20,Zhejiang,Sierra Leone,1176.0
+6/15/20,Zhejiang,Singapore,40818.0
+6/15/20,Zhejiang,Slovakia,1552.0
+6/15/20,Zhejiang,Slovenia,1496.0
+6/15/20,Zhejiang,Somalia,2642.0
+6/15/20,Zhejiang,South Africa,73533.0
+6/15/20,Zhejiang,South Sudan,1693.0
+6/15/20,Zhejiang,Spain,244109.0
+6/15/20,Zhejiang,Sri Lanka,1905.0
+6/15/20,Zhejiang,Sudan,7435.0
+6/15/20,Zhejiang,Suriname,229.0
+6/15/20,Zhejiang,Sweden,52383.0
+6/15/20,Zhejiang,Switzerland,31131.0
+6/15/20,Zhejiang,Syria,177.0
+6/15/20,Zhejiang,Taiwan*,445.0
+6/15/20,Zhejiang,Tajikistan,5097.0
+6/15/20,Zhejiang,Tanzania,509.0
+6/15/20,Zhejiang,Thailand,3135.0
+6/15/20,Zhejiang,Timor-Leste,24.0
+6/15/20,Zhejiang,Togo,531.0
+6/15/20,Zhejiang,Trinidad and Tobago,123.0
+6/15/20,Zhejiang,Tunisia,1110.0
+6/15/20,Zhejiang,Turkey,179831.0
+6/15/20,Zhejiang,US,2114026.0
+6/15/20,Zhejiang,Uganda,705.0
+6/15/20,Zhejiang,Ukraine,32536.0
+6/15/20,Zhejiang,United Arab Emirates,42636.0
+6/15/20,Zhejiang,United Kingdom,296857.0
+6/15/20,Zhejiang,Uruguay,848.0
+6/15/20,Zhejiang,Uzbekistan,5263.0
+6/15/20,Zhejiang,Venezuela,3062.0
+6/15/20,Zhejiang,Vietnam,334.0
+6/15/20,Zhejiang,West Bank and Gaza,505.0
+6/15/20,Zhejiang,Western Sahara,9.0
+6/15/20,Zhejiang,Yemen,844.0
+6/15/20,Zhejiang,Zambia,1382.0
+6/15/20,Zhejiang,Zimbabwe,387.0
+6/16/20,,Afghanistan,26310.0
+6/16/20,,Albania,1672.0
+6/16/20,,Algeria,11147.0
+6/16/20,,Andorra,854.0
+6/16/20,,Angola,148.0
+6/16/20,,Antigua and Barbuda,26.0
+6/16/20,,Argentina,34159.0
+6/16/20,,Armenia,17489.0
+6/16/20,,Austria,17189.0
+6/16/20,,Azerbaijan,10662.0
+6/16/20,,Bahamas,104.0
+6/16/20,,Bahrain,19553.0
+6/16/20,,Bangladesh,94481.0
+6/16/20,,Barbados,97.0
+6/16/20,,Belarus,55369.0
+6/16/20,,Belgium,60155.0
+6/16/20,,Belize,22.0
+6/16/20,,Benin,532.0
+6/16/20,,Bhutan,67.0
+6/16/20,,Bolivia,19883.0
+6/16/20,,Bosnia and Herzegovina,3085.0
+6/16/20,,Botswana,60.0
+6/16/20,,Brazil,923189.0
+6/16/20,,Brunei,141.0
+6/16/20,,Bulgaria,3453.0
+6/16/20,,Burkina Faso,895.0
+6/16/20,,Burma,262.0
+6/16/20,,Burundi,104.0
+6/16/20,,Cabo Verde,781.0
+6/16/20,,Cambodia,128.0
+6/16/20,,Cameroon,9864.0
+6/16/20,,Central African Republic,2410.0
+6/16/20,,Chad,853.0
+6/16/20,,Chile,184449.0
+6/16/20,,China,1269.0
+6/16/20,,Colombia,53211.0
+6/16/20,,Comoros,197.0
+6/16/20,,Congo (Brazzaville),883.0
+6/16/20,,Congo (Kinshasa),4974.0
+6/16/20,,Costa Rica,1796.0
+6/16/20,,Cote d'Ivoire,5679.0
+6/16/20,,Croatia,2255.0
+6/16/20,,Cuba,2273.0
+6/16/20,,Cyprus,985.0
+6/16/20,,Czechia,10111.0
+6/16/20,,Denmark,12250.0
+6/16/20,,Diamond Princess,712.0
+6/16/20,,Djibouti,4539.0
+6/16/20,,Dominica,18.0
+6/16/20,,Dominican Republic,23686.0
+6/16/20,,Ecuador,47943.0
+6/16/20,,Egypt,47856.0
+6/16/20,,El Salvador,3941.0
+6/16/20,,Equatorial Guinea,1664.0
+6/16/20,,Eritrea,121.0
+6/16/20,,Estonia,1975.0
+6/16/20,,Eswatini,520.0
+6/16/20,,Ethiopia,3630.0
+6/16/20,,Fiji,18.0
+6/16/20,,Finland,7112.0
+6/16/20,,France,189595.0
+6/16/20,,Gabon,4114.0
+6/16/20,,Gambia,34.0
+6/16/20,,Georgia,879.0
+6/16/20,,Germany,188252.0
+6/16/20,,Ghana,12193.0
+6/16/20,,Greece,3148.0
+6/16/20,,Grenada,23.0
+6/16/20,,Guatemala,10706.0
+6/16/20,,Guinea,4639.0
+6/16/20,,Guinea-Bissau,1492.0
+6/16/20,,Guyana,171.0
+6/16/20,,Haiti,4547.0
+6/16/20,,Holy See,12.0
+6/16/20,,Honduras,9656.0
+6/16/20,,Hungary,4077.0
+6/16/20,,Iceland,1812.0
+6/16/20,,India,354065.0
+6/16/20,,Indonesia,40400.0
+6/16/20,,Iran,192439.0
+6/16/20,,Iraq,22700.0
+6/16/20,,Ireland,25334.0
+6/16/20,,Israel,19495.0
+6/16/20,,Italy,237500.0
+6/16/20,,Jamaica,621.0
+6/16/20,,Japan,17484.0
+6/16/20,,Jordan,981.0
+6/16/20,,Kazakhstan,15542.0
+6/16/20,,Kenya,3860.0
+6/16/20,,"Korea, South",12198.0
+6/16/20,,Kosovo,1486.0
+6/16/20,,Kuwait,36958.0
+6/16/20,,Kyrgyzstan,2562.0
+6/16/20,,Laos,19.0
+6/16/20,,Latvia,1098.0
+6/16/20,,Lebanon,1473.0
+6/16/20,,Lesotho,4.0
+6/16/20,,Liberia,509.0
+6/16/20,,Libya,484.0
+6/16/20,,Liechtenstein,82.0
+6/16/20,,Lithuania,1776.0
+6/16/20,,Luxembourg,4075.0
+6/16/20,,MS Zaandam,9.0
+6/16/20,,Madagascar,1317.0
+6/16/20,,Malawi,564.0
+6/16/20,,Malaysia,8505.0
+6/16/20,,Maldives,2094.0
+6/16/20,,Mali,1885.0
+6/16/20,,Malta,656.0
+6/16/20,,Mauritania,2057.0
+6/16/20,,Mauritius,337.0
+6/16/20,,Mexico,154863.0
+6/16/20,,Moldova,12254.0
+6/16/20,,Monaco,99.0
+6/16/20,,Mongolia,197.0
+6/16/20,,Montenegro,326.0
+6/16/20,,Morocco,8931.0
+6/16/20,,Mozambique,638.0
+6/16/20,,Namibia,34.0
+6/16/20,,Nepal,6591.0
+6/16/20,,Netherlands,49087.0
+6/16/20,,New Zealand,1506.0
+6/16/20,,Nicaragua,1823.0
+6/16/20,,Niger,1016.0
+6/16/20,,Nigeria,17148.0
+6/16/20,,North Macedonia,4299.0
+6/16/20,,Norway,8660.0
+6/16/20,,Oman,25269.0
+6/16/20,,Pakistan,154760.0
+6/16/20,,Panama,21962.0
+6/16/20,,Papua New Guinea,8.0
+6/16/20,,Paraguay,1303.0
+6/16/20,,Peru,237156.0
+6/16/20,,Philippines,26781.0
+6/16/20,,Poland,30195.0
+6/16/20,,Portugal,37336.0
+6/16/20,,Qatar,82077.0
+6/16/20,,Romania,22415.0
+6/16/20,,Russia,544725.0
+6/16/20,,Rwanda,636.0
+6/16/20,,Saint Kitts and Nevis,15.0
+6/16/20,,Saint Lucia,19.0
+6/16/20,,Saint Vincent and the Grenadines,29.0
+6/16/20,,San Marino,694.0
+6/16/20,,Sao Tome and Principe,671.0
+6/16/20,,Saudi Arabia,136315.0
+6/16/20,,Senegal,5247.0
+6/16/20,,Serbia,12426.0
+6/16/20,,Seychelles,11.0
+6/16/20,,Sierra Leone,1225.0
+6/16/20,,Singapore,40969.0
+6/16/20,,Slovakia,1552.0
+6/16/20,,Slovenia,1499.0
+6/16/20,,Somalia,2658.0
+6/16/20,,South Africa,76334.0
+6/16/20,,South Sudan,1776.0
+6/16/20,,Spain,244328.0
+6/16/20,,Sri Lanka,1915.0
+6/16/20,,Sudan,7740.0
+6/16/20,,Suriname,236.0
+6/16/20,,Sweden,53323.0
+6/16/20,,Switzerland,31154.0
+6/16/20,,Syria,177.0
+6/16/20,,Taiwan*,445.0
+6/16/20,,Tajikistan,5160.0
+6/16/20,,Tanzania,509.0
+6/16/20,,Thailand,3135.0
+6/16/20,,Timor-Leste,24.0
+6/16/20,,Togo,537.0
+6/16/20,,Trinidad and Tobago,123.0
+6/16/20,,Tunisia,1125.0
+6/16/20,,Turkey,181298.0
+6/16/20,,US,2137731.0
+6/16/20,,Uganda,724.0
+6/16/20,,Ukraine,33209.0
+6/16/20,,United Arab Emirates,42982.0
+6/16/20,,United Kingdom,298136.0
+6/16/20,,Uruguay,849.0
+6/16/20,,Uzbekistan,5493.0
+6/16/20,,Venezuela,3150.0
+6/16/20,,Vietnam,334.0
+6/16/20,,West Bank and Gaza,514.0
+6/16/20,,Western Sahara,9.0
+6/16/20,,Yemen,885.0
+6/16/20,,Zambia,1405.0
+6/16/20,,Zimbabwe,391.0
+6/16/20,Alberta,Canada,7482.0
+6/16/20,Anguilla,United Kingdom,3.0
+6/16/20,Anhui,China,991.0
+6/16/20,Aruba,Netherlands,101.0
+6/16/20,Australian Capital Territory,Australia,108.0
+6/16/20,Beijing,China,731.0
+6/16/20,Bermuda,United Kingdom,144.0
+6/16/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/16/20,British Columbia,Canada,2756.0
+6/16/20,British Virgin Islands,United Kingdom,8.0
+6/16/20,Cayman Islands,United Kingdom,193.0
+6/16/20,Channel Islands,United Kingdom,568.0
+6/16/20,Chongqing,China,582.0
+6/16/20,Curacao,Netherlands,23.0
+6/16/20,Diamond Princess,Canada,0.0
+6/16/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/16/20,Faroe Islands,Denmark,187.0
+6/16/20,French Guiana,France,1421.0
+6/16/20,French Polynesia,France,60.0
+6/16/20,Fujian,China,362.0
+6/16/20,Gansu,China,149.0
+6/16/20,Gibraltar,United Kingdom,176.0
+6/16/20,Grand Princess,Canada,13.0
+6/16/20,Greenland,Denmark,13.0
+6/16/20,Guadeloupe,France,171.0
+6/16/20,Guangdong,China,1628.0
+6/16/20,Guangxi,China,254.0
+6/16/20,Guizhou,China,147.0
+6/16/20,Hainan,China,171.0
+6/16/20,Hebei,China,336.0
+6/16/20,Heilongjiang,China,947.0
+6/16/20,Henan,China,1276.0
+6/16/20,Hong Kong,China,1112.0
+6/16/20,Hubei,China,68135.0
+6/16/20,Hunan,China,1019.0
+6/16/20,Inner Mongolia,China,238.0
+6/16/20,Isle of Man,United Kingdom,336.0
+6/16/20,Jiangsu,China,653.0
+6/16/20,Jiangxi,China,932.0
+6/16/20,Jilin,China,155.0
+6/16/20,Liaoning,China,152.0
+6/16/20,Macau,China,45.0
+6/16/20,Manitoba,Canada,304.0
+6/16/20,Martinique,France,202.0
+6/16/20,Mayotte,France,2333.0
+6/16/20,Montserrat,United Kingdom,11.0
+6/16/20,New Brunswick,Canada,163.0
+6/16/20,New Caledonia,France,21.0
+6/16/20,New South Wales,Australia,3135.0
+6/16/20,Newfoundland and Labrador,Canada,261.0
+6/16/20,Ningxia,China,75.0
+6/16/20,Northern Territory,Australia,29.0
+6/16/20,Northwest Territories,Canada,5.0
+6/16/20,Nova Scotia,Canada,1061.0
+6/16/20,Ontario,Canada,34174.0
+6/16/20,Prince Edward Island,Canada,27.0
+6/16/20,Qinghai,China,18.0
+6/16/20,Quebec,Canada,54146.0
+6/16/20,Queensland,Australia,1066.0
+6/16/20,Reunion,France,495.0
+6/16/20,Saint Barthelemy,France,6.0
+6/16/20,Saint Pierre and Miquelon,France,1.0
+6/16/20,Saskatchewan,Canada,684.0
+6/16/20,Shaanxi,China,313.0
+6/16/20,Shandong,China,792.0
+6/16/20,Shanghai,China,695.0
+6/16/20,Shanxi,China,198.0
+6/16/20,Sichuan,China,589.0
+6/16/20,Sint Maarten,Netherlands,77.0
+6/16/20,South Australia,Australia,440.0
+6/16/20,St Martin,France,42.0
+6/16/20,Tasmania,Australia,228.0
+6/16/20,Tianjin,China,196.0
+6/16/20,Tibet,China,1.0
+6/16/20,Turks and Caicos Islands,United Kingdom,12.0
+6/16/20,Victoria,Australia,1762.0
+6/16/20,Western Australia,Australia,602.0
+6/16/20,Xinjiang,China,76.0
+6/16/20,Yukon,Canada,11.0
+6/16/20,Yunnan,China,185.0
+6/16/20,Zhejiang,Afghanistan,26310.0
+6/16/20,Zhejiang,Albania,1672.0
+6/16/20,Zhejiang,Algeria,11147.0
+6/16/20,Zhejiang,Andorra,854.0
+6/16/20,Zhejiang,Angola,148.0
+6/16/20,Zhejiang,Antigua and Barbuda,26.0
+6/16/20,Zhejiang,Argentina,34159.0
+6/16/20,Zhejiang,Armenia,17489.0
+6/16/20,Zhejiang,Austria,17189.0
+6/16/20,Zhejiang,Azerbaijan,10662.0
+6/16/20,Zhejiang,Bahamas,104.0
+6/16/20,Zhejiang,Bahrain,19553.0
+6/16/20,Zhejiang,Bangladesh,94481.0
+6/16/20,Zhejiang,Barbados,97.0
+6/16/20,Zhejiang,Belarus,55369.0
+6/16/20,Zhejiang,Belgium,60155.0
+6/16/20,Zhejiang,Belize,22.0
+6/16/20,Zhejiang,Benin,532.0
+6/16/20,Zhejiang,Bhutan,67.0
+6/16/20,Zhejiang,Bolivia,19883.0
+6/16/20,Zhejiang,Bosnia and Herzegovina,3085.0
+6/16/20,Zhejiang,Botswana,60.0
+6/16/20,Zhejiang,Brazil,923189.0
+6/16/20,Zhejiang,Brunei,141.0
+6/16/20,Zhejiang,Bulgaria,3453.0
+6/16/20,Zhejiang,Burkina Faso,895.0
+6/16/20,Zhejiang,Burma,262.0
+6/16/20,Zhejiang,Burundi,104.0
+6/16/20,Zhejiang,Cabo Verde,781.0
+6/16/20,Zhejiang,Cambodia,128.0
+6/16/20,Zhejiang,Cameroon,9864.0
+6/16/20,Zhejiang,Central African Republic,2410.0
+6/16/20,Zhejiang,Chad,853.0
+6/16/20,Zhejiang,Chile,184449.0
+6/16/20,Zhejiang,China,1269.0
+6/16/20,Zhejiang,Colombia,53211.0
+6/16/20,Zhejiang,Comoros,197.0
+6/16/20,Zhejiang,Congo (Brazzaville),883.0
+6/16/20,Zhejiang,Congo (Kinshasa),4974.0
+6/16/20,Zhejiang,Costa Rica,1796.0
+6/16/20,Zhejiang,Cote d'Ivoire,5679.0
+6/16/20,Zhejiang,Croatia,2255.0
+6/16/20,Zhejiang,Cuba,2273.0
+6/16/20,Zhejiang,Cyprus,985.0
+6/16/20,Zhejiang,Czechia,10111.0
+6/16/20,Zhejiang,Denmark,12250.0
+6/16/20,Zhejiang,Diamond Princess,712.0
+6/16/20,Zhejiang,Djibouti,4539.0
+6/16/20,Zhejiang,Dominica,18.0
+6/16/20,Zhejiang,Dominican Republic,23686.0
+6/16/20,Zhejiang,Ecuador,47943.0
+6/16/20,Zhejiang,Egypt,47856.0
+6/16/20,Zhejiang,El Salvador,3941.0
+6/16/20,Zhejiang,Equatorial Guinea,1664.0
+6/16/20,Zhejiang,Eritrea,121.0
+6/16/20,Zhejiang,Estonia,1975.0
+6/16/20,Zhejiang,Eswatini,520.0
+6/16/20,Zhejiang,Ethiopia,3630.0
+6/16/20,Zhejiang,Fiji,18.0
+6/16/20,Zhejiang,Finland,7112.0
+6/16/20,Zhejiang,France,189595.0
+6/16/20,Zhejiang,Gabon,4114.0
+6/16/20,Zhejiang,Gambia,34.0
+6/16/20,Zhejiang,Georgia,879.0
+6/16/20,Zhejiang,Germany,188252.0
+6/16/20,Zhejiang,Ghana,12193.0
+6/16/20,Zhejiang,Greece,3148.0
+6/16/20,Zhejiang,Grenada,23.0
+6/16/20,Zhejiang,Guatemala,10706.0
+6/16/20,Zhejiang,Guinea,4639.0
+6/16/20,Zhejiang,Guinea-Bissau,1492.0
+6/16/20,Zhejiang,Guyana,171.0
+6/16/20,Zhejiang,Haiti,4547.0
+6/16/20,Zhejiang,Holy See,12.0
+6/16/20,Zhejiang,Honduras,9656.0
+6/16/20,Zhejiang,Hungary,4077.0
+6/16/20,Zhejiang,Iceland,1812.0
+6/16/20,Zhejiang,India,354065.0
+6/16/20,Zhejiang,Indonesia,40400.0
+6/16/20,Zhejiang,Iran,192439.0
+6/16/20,Zhejiang,Iraq,22700.0
+6/16/20,Zhejiang,Ireland,25334.0
+6/16/20,Zhejiang,Israel,19495.0
+6/16/20,Zhejiang,Italy,237500.0
+6/16/20,Zhejiang,Jamaica,621.0
+6/16/20,Zhejiang,Japan,17484.0
+6/16/20,Zhejiang,Jordan,981.0
+6/16/20,Zhejiang,Kazakhstan,15542.0
+6/16/20,Zhejiang,Kenya,3860.0
+6/16/20,Zhejiang,"Korea, South",12198.0
+6/16/20,Zhejiang,Kosovo,1486.0
+6/16/20,Zhejiang,Kuwait,36958.0
+6/16/20,Zhejiang,Kyrgyzstan,2562.0
+6/16/20,Zhejiang,Laos,19.0
+6/16/20,Zhejiang,Latvia,1098.0
+6/16/20,Zhejiang,Lebanon,1473.0
+6/16/20,Zhejiang,Lesotho,4.0
+6/16/20,Zhejiang,Liberia,509.0
+6/16/20,Zhejiang,Libya,484.0
+6/16/20,Zhejiang,Liechtenstein,82.0
+6/16/20,Zhejiang,Lithuania,1776.0
+6/16/20,Zhejiang,Luxembourg,4075.0
+6/16/20,Zhejiang,MS Zaandam,9.0
+6/16/20,Zhejiang,Madagascar,1317.0
+6/16/20,Zhejiang,Malawi,564.0
+6/16/20,Zhejiang,Malaysia,8505.0
+6/16/20,Zhejiang,Maldives,2094.0
+6/16/20,Zhejiang,Mali,1885.0
+6/16/20,Zhejiang,Malta,656.0
+6/16/20,Zhejiang,Mauritania,2057.0
+6/16/20,Zhejiang,Mauritius,337.0
+6/16/20,Zhejiang,Mexico,154863.0
+6/16/20,Zhejiang,Moldova,12254.0
+6/16/20,Zhejiang,Monaco,99.0
+6/16/20,Zhejiang,Mongolia,197.0
+6/16/20,Zhejiang,Montenegro,326.0
+6/16/20,Zhejiang,Morocco,8931.0
+6/16/20,Zhejiang,Mozambique,638.0
+6/16/20,Zhejiang,Namibia,34.0
+6/16/20,Zhejiang,Nepal,6591.0
+6/16/20,Zhejiang,Netherlands,49087.0
+6/16/20,Zhejiang,New Zealand,1506.0
+6/16/20,Zhejiang,Nicaragua,1823.0
+6/16/20,Zhejiang,Niger,1016.0
+6/16/20,Zhejiang,Nigeria,17148.0
+6/16/20,Zhejiang,North Macedonia,4299.0
+6/16/20,Zhejiang,Norway,8660.0
+6/16/20,Zhejiang,Oman,25269.0
+6/16/20,Zhejiang,Pakistan,154760.0
+6/16/20,Zhejiang,Panama,21962.0
+6/16/20,Zhejiang,Papua New Guinea,8.0
+6/16/20,Zhejiang,Paraguay,1303.0
+6/16/20,Zhejiang,Peru,237156.0
+6/16/20,Zhejiang,Philippines,26781.0
+6/16/20,Zhejiang,Poland,30195.0
+6/16/20,Zhejiang,Portugal,37336.0
+6/16/20,Zhejiang,Qatar,82077.0
+6/16/20,Zhejiang,Romania,22415.0
+6/16/20,Zhejiang,Russia,544725.0
+6/16/20,Zhejiang,Rwanda,636.0
+6/16/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/16/20,Zhejiang,Saint Lucia,19.0
+6/16/20,Zhejiang,Saint Vincent and the Grenadines,29.0
+6/16/20,Zhejiang,San Marino,694.0
+6/16/20,Zhejiang,Sao Tome and Principe,671.0
+6/16/20,Zhejiang,Saudi Arabia,136315.0
+6/16/20,Zhejiang,Senegal,5247.0
+6/16/20,Zhejiang,Serbia,12426.0
+6/16/20,Zhejiang,Seychelles,11.0
+6/16/20,Zhejiang,Sierra Leone,1225.0
+6/16/20,Zhejiang,Singapore,40969.0
+6/16/20,Zhejiang,Slovakia,1552.0
+6/16/20,Zhejiang,Slovenia,1499.0
+6/16/20,Zhejiang,Somalia,2658.0
+6/16/20,Zhejiang,South Africa,76334.0
+6/16/20,Zhejiang,South Sudan,1776.0
+6/16/20,Zhejiang,Spain,244328.0
+6/16/20,Zhejiang,Sri Lanka,1915.0
+6/16/20,Zhejiang,Sudan,7740.0
+6/16/20,Zhejiang,Suriname,236.0
+6/16/20,Zhejiang,Sweden,53323.0
+6/16/20,Zhejiang,Switzerland,31154.0
+6/16/20,Zhejiang,Syria,177.0
+6/16/20,Zhejiang,Taiwan*,445.0
+6/16/20,Zhejiang,Tajikistan,5160.0
+6/16/20,Zhejiang,Tanzania,509.0
+6/16/20,Zhejiang,Thailand,3135.0
+6/16/20,Zhejiang,Timor-Leste,24.0
+6/16/20,Zhejiang,Togo,537.0
+6/16/20,Zhejiang,Trinidad and Tobago,123.0
+6/16/20,Zhejiang,Tunisia,1125.0
+6/16/20,Zhejiang,Turkey,181298.0
+6/16/20,Zhejiang,US,2137731.0
+6/16/20,Zhejiang,Uganda,724.0
+6/16/20,Zhejiang,Ukraine,33209.0
+6/16/20,Zhejiang,United Arab Emirates,42982.0
+6/16/20,Zhejiang,United Kingdom,298136.0
+6/16/20,Zhejiang,Uruguay,849.0
+6/16/20,Zhejiang,Uzbekistan,5493.0
+6/16/20,Zhejiang,Venezuela,3150.0
+6/16/20,Zhejiang,Vietnam,334.0
+6/16/20,Zhejiang,West Bank and Gaza,514.0
+6/16/20,Zhejiang,Western Sahara,9.0
+6/16/20,Zhejiang,Yemen,885.0
+6/16/20,Zhejiang,Zambia,1405.0
+6/16/20,Zhejiang,Zimbabwe,391.0
+6/17/20,,Afghanistan,26874.0
+6/17/20,,Albania,1722.0
+6/17/20,,Algeria,11268.0
+6/17/20,,Andorra,854.0
+6/17/20,,Angola,155.0
+6/17/20,,Antigua and Barbuda,26.0
+6/17/20,,Argentina,35552.0
+6/17/20,,Armenia,18033.0
+6/17/20,,Austria,17203.0
+6/17/20,,Azerbaijan,10991.0
+6/17/20,,Bahamas,104.0
+6/17/20,,Bahrain,19961.0
+6/17/20,,Bangladesh,98489.0
+6/17/20,,Barbados,97.0
+6/17/20,,Belarus,56032.0
+6/17/20,,Belgium,60244.0
+6/17/20,,Belize,22.0
+6/17/20,,Benin,572.0
+6/17/20,,Bhutan,67.0
+6/17/20,,Bolivia,20685.0
+6/17/20,,Bosnia and Herzegovina,3141.0
+6/17/20,,Botswana,79.0
+6/17/20,,Brazil,955377.0
+6/17/20,,Brunei,141.0
+6/17/20,,Bulgaria,3542.0
+6/17/20,,Burkina Faso,899.0
+6/17/20,,Burma,262.0
+6/17/20,,Burundi,104.0
+6/17/20,,Cabo Verde,792.0
+6/17/20,,Cambodia,128.0
+6/17/20,,Cameroon,9864.0
+6/17/20,,Central African Republic,2564.0
+6/17/20,,Chad,854.0
+6/17/20,,Chile,220628.0
+6/17/20,,China,1269.0
+6/17/20,,Colombia,55083.0
+6/17/20,,Comoros,197.0
+6/17/20,,Congo (Brazzaville),883.0
+6/17/20,,Congo (Kinshasa),5100.0
+6/17/20,,Costa Rica,1871.0
+6/17/20,,Cote d'Ivoire,6063.0
+6/17/20,,Croatia,2258.0
+6/17/20,,Cuba,2280.0
+6/17/20,,Cyprus,985.0
+6/17/20,,Czechia,10162.0
+6/17/20,,Denmark,12294.0
+6/17/20,,Diamond Princess,712.0
+6/17/20,,Djibouti,4545.0
+6/17/20,,Dominica,18.0
+6/17/20,,Dominican Republic,24105.0
+6/17/20,,Ecuador,48490.0
+6/17/20,,Egypt,49219.0
+6/17/20,,El Salvador,4066.0
+6/17/20,,Equatorial Guinea,1664.0
+6/17/20,,Eritrea,131.0
+6/17/20,,Estonia,1977.0
+6/17/20,,Eswatini,563.0
+6/17/20,,Ethiopia,3759.0
+6/17/20,,Fiji,18.0
+6/17/20,,Finland,7117.0
+6/17/20,,France,189906.0
+6/17/20,,Gabon,4229.0
+6/17/20,,Gambia,34.0
+6/17/20,,Georgia,888.0
+6/17/20,,Germany,188604.0
+6/17/20,,Ghana,12590.0
+6/17/20,,Greece,3203.0
+6/17/20,,Grenada,23.0
+6/17/20,,Guatemala,11251.0
+6/17/20,,Guinea,4668.0
+6/17/20,,Guinea-Bissau,1492.0
+6/17/20,,Guyana,171.0
+6/17/20,,Haiti,4688.0
+6/17/20,,Holy See,12.0
+6/17/20,,Honduras,10299.0
+6/17/20,,Hungary,4078.0
+6/17/20,,Iceland,1815.0
+6/17/20,,India,366946.0
+6/17/20,,Indonesia,41431.0
+6/17/20,,Iran,195051.0
+6/17/20,,Iraq,24254.0
+6/17/20,,Ireland,25341.0
+6/17/20,,Israel,19783.0
+6/17/20,,Italy,237828.0
+6/17/20,,Jamaica,626.0
+6/17/20,,Japan,17530.0
+6/17/20,,Jordan,987.0
+6/17/20,,Kazakhstan,15877.0
+6/17/20,,Kenya,4044.0
+6/17/20,,"Korea, South",12257.0
+6/17/20,,Kosovo,1486.0
+6/17/20,,Kuwait,37533.0
+6/17/20,,Kyrgyzstan,2657.0
+6/17/20,,Laos,19.0
+6/17/20,,Latvia,1104.0
+6/17/20,,Lebanon,1489.0
+6/17/20,,Lesotho,4.0
+6/17/20,,Liberia,516.0
+6/17/20,,Libya,500.0
+6/17/20,,Liechtenstein,82.0
+6/17/20,,Lithuania,1778.0
+6/17/20,,Luxembourg,4085.0
+6/17/20,,MS Zaandam,9.0
+6/17/20,,Madagascar,1378.0
+6/17/20,,Malawi,572.0
+6/17/20,,Malaysia,8515.0
+6/17/20,,Maldives,2120.0
+6/17/20,,Mali,1890.0
+6/17/20,,Malta,662.0
+6/17/20,,Mauritania,2223.0
+6/17/20,,Mauritius,337.0
+6/17/20,,Mexico,159793.0
+6/17/20,,Moldova,12732.0
+6/17/20,,Monaco,99.0
+6/17/20,,Mongolia,201.0
+6/17/20,,Montenegro,333.0
+6/17/20,,Morocco,8997.0
+6/17/20,,Mozambique,651.0
+6/17/20,,Namibia,36.0
+6/17/20,,Nepal,7177.0
+6/17/20,,Netherlands,49204.0
+6/17/20,,New Zealand,1507.0
+6/17/20,,Nicaragua,1823.0
+6/17/20,,Niger,1020.0
+6/17/20,,Nigeria,17735.0
+6/17/20,,North Macedonia,4482.0
+6/17/20,,Norway,8692.0
+6/17/20,,Oman,26079.0
+6/17/20,,Pakistan,160118.0
+6/17/20,,Panama,22597.0
+6/17/20,,Papua New Guinea,8.0
+6/17/20,,Paraguay,1308.0
+6/17/20,,Peru,240908.0
+6/17/20,,Philippines,27238.0
+6/17/20,,Poland,30701.0
+6/17/20,,Portugal,37672.0
+6/17/20,,Qatar,83174.0
+6/17/20,,Romania,22760.0
+6/17/20,,Russia,552549.0
+6/17/20,,Rwanda,639.0
+6/17/20,,Saint Kitts and Nevis,15.0
+6/17/20,,Saint Lucia,19.0
+6/17/20,,Saint Vincent and the Grenadines,29.0
+6/17/20,,San Marino,696.0
+6/17/20,,Sao Tome and Principe,683.0
+6/17/20,,Saudi Arabia,141234.0
+6/17/20,,Senegal,5369.0
+6/17/20,,Serbia,12522.0
+6/17/20,,Seychelles,11.0
+6/17/20,,Sierra Leone,1249.0
+6/17/20,,Singapore,41216.0
+6/17/20,,Slovakia,1561.0
+6/17/20,,Slovenia,1503.0
+6/17/20,,Somalia,2696.0
+6/17/20,,South Africa,80412.0
+6/17/20,,South Sudan,1813.0
+6/17/20,,Spain,244683.0
+6/17/20,,Sri Lanka,1924.0
+6/17/20,,Sudan,8020.0
+6/17/20,,Suriname,261.0
+6/17/20,,Sweden,54562.0
+6/17/20,,Switzerland,31187.0
+6/17/20,,Syria,178.0
+6/17/20,,Taiwan*,445.0
+6/17/20,,Tajikistan,5221.0
+6/17/20,,Tanzania,509.0
+6/17/20,,Thailand,3135.0
+6/17/20,,Timor-Leste,24.0
+6/17/20,,Togo,544.0
+6/17/20,,Trinidad and Tobago,123.0
+6/17/20,,Tunisia,1128.0
+6/17/20,,Turkey,182727.0
+6/17/20,,US,2163290.0
+6/17/20,,Uganda,732.0
+6/17/20,,Ukraine,33986.0
+6/17/20,,United Arab Emirates,43364.0
+6/17/20,,United Kingdom,299251.0
+6/17/20,,Uruguay,849.0
+6/17/20,,Uzbekistan,5682.0
+6/17/20,,Venezuela,3386.0
+6/17/20,,Vietnam,335.0
+6/17/20,,West Bank and Gaza,555.0
+6/17/20,,Western Sahara,9.0
+6/17/20,,Yemen,902.0
+6/17/20,,Zambia,1412.0
+6/17/20,,Zimbabwe,401.0
+6/17/20,Alberta,Canada,7530.0
+6/17/20,Anguilla,United Kingdom,3.0
+6/17/20,Anhui,China,991.0
+6/17/20,Aruba,Netherlands,101.0
+6/17/20,Australian Capital Territory,Australia,108.0
+6/17/20,Beijing,China,752.0
+6/17/20,Bermuda,United Kingdom,144.0
+6/17/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/17/20,British Columbia,Canada,2775.0
+6/17/20,British Virgin Islands,United Kingdom,8.0
+6/17/20,Cayman Islands,United Kingdom,193.0
+6/17/20,Channel Islands,United Kingdom,570.0
+6/17/20,Chongqing,China,582.0
+6/17/20,Curacao,Netherlands,23.0
+6/17/20,Diamond Princess,Canada,0.0
+6/17/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/17/20,Faroe Islands,Denmark,187.0
+6/17/20,French Guiana,France,1554.0
+6/17/20,French Polynesia,France,60.0
+6/17/20,Fujian,China,362.0
+6/17/20,Gansu,China,150.0
+6/17/20,Gibraltar,United Kingdom,176.0
+6/17/20,Grand Princess,Canada,13.0
+6/17/20,Greenland,Denmark,13.0
+6/17/20,Guadeloupe,France,171.0
+6/17/20,Guangdong,China,1628.0
+6/17/20,Guangxi,China,254.0
+6/17/20,Guizhou,China,147.0
+6/17/20,Hainan,China,171.0
+6/17/20,Hebei,China,338.0
+6/17/20,Heilongjiang,China,947.0
+6/17/20,Henan,China,1276.0
+6/17/20,Hong Kong,China,1120.0
+6/17/20,Hubei,China,68135.0
+6/17/20,Hunan,China,1019.0
+6/17/20,Inner Mongolia,China,238.0
+6/17/20,Isle of Man,United Kingdom,336.0
+6/17/20,Jiangsu,China,653.0
+6/17/20,Jiangxi,China,932.0
+6/17/20,Jilin,China,155.0
+6/17/20,Liaoning,China,152.0
+6/17/20,Macau,China,45.0
+6/17/20,Manitoba,Canada,306.0
+6/17/20,Martinique,France,202.0
+6/17/20,Mayotte,France,2345.0
+6/17/20,Montserrat,United Kingdom,11.0
+6/17/20,New Brunswick,Canada,164.0
+6/17/20,New Caledonia,France,21.0
+6/17/20,New South Wales,Australia,3137.0
+6/17/20,Newfoundland and Labrador,Canada,261.0
+6/17/20,Ningxia,China,75.0
+6/17/20,Northern Territory,Australia,29.0
+6/17/20,Northwest Territories,Canada,5.0
+6/17/20,Nova Scotia,Canada,1061.0
+6/17/20,Ontario,Canada,34382.0
+6/17/20,Prince Edward Island,Canada,27.0
+6/17/20,Qinghai,China,18.0
+6/17/20,Quebec,Canada,54263.0
+6/17/20,Queensland,Australia,1066.0
+6/17/20,Reunion,France,497.0
+6/17/20,Saint Barthelemy,France,6.0
+6/17/20,Saint Pierre and Miquelon,France,1.0
+6/17/20,Saskatchewan,Canada,693.0
+6/17/20,Shaanxi,China,314.0
+6/17/20,Shandong,China,792.0
+6/17/20,Shanghai,China,697.0
+6/17/20,Shanxi,China,198.0
+6/17/20,Sichuan,China,589.0
+6/17/20,Sint Maarten,Netherlands,77.0
+6/17/20,South Australia,Australia,440.0
+6/17/20,St Martin,France,42.0
+6/17/20,Tasmania,Australia,228.0
+6/17/20,Tianjin,China,197.0
+6/17/20,Tibet,China,1.0
+6/17/20,Turks and Caicos Islands,United Kingdom,12.0
+6/17/20,Victoria,Australia,1780.0
+6/17/20,Western Australia,Australia,603.0
+6/17/20,Xinjiang,China,76.0
+6/17/20,Yukon,Canada,11.0
+6/17/20,Yunnan,China,185.0
+6/17/20,Zhejiang,Afghanistan,26874.0
+6/17/20,Zhejiang,Albania,1722.0
+6/17/20,Zhejiang,Algeria,11268.0
+6/17/20,Zhejiang,Andorra,854.0
+6/17/20,Zhejiang,Angola,155.0
+6/17/20,Zhejiang,Antigua and Barbuda,26.0
+6/17/20,Zhejiang,Argentina,35552.0
+6/17/20,Zhejiang,Armenia,18033.0
+6/17/20,Zhejiang,Austria,17203.0
+6/17/20,Zhejiang,Azerbaijan,10991.0
+6/17/20,Zhejiang,Bahamas,104.0
+6/17/20,Zhejiang,Bahrain,19961.0
+6/17/20,Zhejiang,Bangladesh,98489.0
+6/17/20,Zhejiang,Barbados,97.0
+6/17/20,Zhejiang,Belarus,56032.0
+6/17/20,Zhejiang,Belgium,60244.0
+6/17/20,Zhejiang,Belize,22.0
+6/17/20,Zhejiang,Benin,572.0
+6/17/20,Zhejiang,Bhutan,67.0
+6/17/20,Zhejiang,Bolivia,20685.0
+6/17/20,Zhejiang,Bosnia and Herzegovina,3141.0
+6/17/20,Zhejiang,Botswana,79.0
+6/17/20,Zhejiang,Brazil,955377.0
+6/17/20,Zhejiang,Brunei,141.0
+6/17/20,Zhejiang,Bulgaria,3542.0
+6/17/20,Zhejiang,Burkina Faso,899.0
+6/17/20,Zhejiang,Burma,262.0
+6/17/20,Zhejiang,Burundi,104.0
+6/17/20,Zhejiang,Cabo Verde,792.0
+6/17/20,Zhejiang,Cambodia,128.0
+6/17/20,Zhejiang,Cameroon,9864.0
+6/17/20,Zhejiang,Central African Republic,2564.0
+6/17/20,Zhejiang,Chad,854.0
+6/17/20,Zhejiang,Chile,220628.0
+6/17/20,Zhejiang,China,1269.0
+6/17/20,Zhejiang,Colombia,55083.0
+6/17/20,Zhejiang,Comoros,197.0
+6/17/20,Zhejiang,Congo (Brazzaville),883.0
+6/17/20,Zhejiang,Congo (Kinshasa),5100.0
+6/17/20,Zhejiang,Costa Rica,1871.0
+6/17/20,Zhejiang,Cote d'Ivoire,6063.0
+6/17/20,Zhejiang,Croatia,2258.0
+6/17/20,Zhejiang,Cuba,2280.0
+6/17/20,Zhejiang,Cyprus,985.0
+6/17/20,Zhejiang,Czechia,10162.0
+6/17/20,Zhejiang,Denmark,12294.0
+6/17/20,Zhejiang,Diamond Princess,712.0
+6/17/20,Zhejiang,Djibouti,4545.0
+6/17/20,Zhejiang,Dominica,18.0
+6/17/20,Zhejiang,Dominican Republic,24105.0
+6/17/20,Zhejiang,Ecuador,48490.0
+6/17/20,Zhejiang,Egypt,49219.0
+6/17/20,Zhejiang,El Salvador,4066.0
+6/17/20,Zhejiang,Equatorial Guinea,1664.0
+6/17/20,Zhejiang,Eritrea,131.0
+6/17/20,Zhejiang,Estonia,1977.0
+6/17/20,Zhejiang,Eswatini,563.0
+6/17/20,Zhejiang,Ethiopia,3759.0
+6/17/20,Zhejiang,Fiji,18.0
+6/17/20,Zhejiang,Finland,7117.0
+6/17/20,Zhejiang,France,189906.0
+6/17/20,Zhejiang,Gabon,4229.0
+6/17/20,Zhejiang,Gambia,34.0
+6/17/20,Zhejiang,Georgia,888.0
+6/17/20,Zhejiang,Germany,188604.0
+6/17/20,Zhejiang,Ghana,12590.0
+6/17/20,Zhejiang,Greece,3203.0
+6/17/20,Zhejiang,Grenada,23.0
+6/17/20,Zhejiang,Guatemala,11251.0
+6/17/20,Zhejiang,Guinea,4668.0
+6/17/20,Zhejiang,Guinea-Bissau,1492.0
+6/17/20,Zhejiang,Guyana,171.0
+6/17/20,Zhejiang,Haiti,4688.0
+6/17/20,Zhejiang,Holy See,12.0
+6/17/20,Zhejiang,Honduras,10299.0
+6/17/20,Zhejiang,Hungary,4078.0
+6/17/20,Zhejiang,Iceland,1815.0
+6/17/20,Zhejiang,India,366946.0
+6/17/20,Zhejiang,Indonesia,41431.0
+6/17/20,Zhejiang,Iran,195051.0
+6/17/20,Zhejiang,Iraq,24254.0
+6/17/20,Zhejiang,Ireland,25341.0
+6/17/20,Zhejiang,Israel,19783.0
+6/17/20,Zhejiang,Italy,237828.0
+6/17/20,Zhejiang,Jamaica,626.0
+6/17/20,Zhejiang,Japan,17530.0
+6/17/20,Zhejiang,Jordan,987.0
+6/17/20,Zhejiang,Kazakhstan,15877.0
+6/17/20,Zhejiang,Kenya,4044.0
+6/17/20,Zhejiang,"Korea, South",12257.0
+6/17/20,Zhejiang,Kosovo,1486.0
+6/17/20,Zhejiang,Kuwait,37533.0
+6/17/20,Zhejiang,Kyrgyzstan,2657.0
+6/17/20,Zhejiang,Laos,19.0
+6/17/20,Zhejiang,Latvia,1104.0
+6/17/20,Zhejiang,Lebanon,1489.0
+6/17/20,Zhejiang,Lesotho,4.0
+6/17/20,Zhejiang,Liberia,516.0
+6/17/20,Zhejiang,Libya,500.0
+6/17/20,Zhejiang,Liechtenstein,82.0
+6/17/20,Zhejiang,Lithuania,1778.0
+6/17/20,Zhejiang,Luxembourg,4085.0
+6/17/20,Zhejiang,MS Zaandam,9.0
+6/17/20,Zhejiang,Madagascar,1378.0
+6/17/20,Zhejiang,Malawi,572.0
+6/17/20,Zhejiang,Malaysia,8515.0
+6/17/20,Zhejiang,Maldives,2120.0
+6/17/20,Zhejiang,Mali,1890.0
+6/17/20,Zhejiang,Malta,662.0
+6/17/20,Zhejiang,Mauritania,2223.0
+6/17/20,Zhejiang,Mauritius,337.0
+6/17/20,Zhejiang,Mexico,159793.0
+6/17/20,Zhejiang,Moldova,12732.0
+6/17/20,Zhejiang,Monaco,99.0
+6/17/20,Zhejiang,Mongolia,201.0
+6/17/20,Zhejiang,Montenegro,333.0
+6/17/20,Zhejiang,Morocco,8997.0
+6/17/20,Zhejiang,Mozambique,651.0
+6/17/20,Zhejiang,Namibia,36.0
+6/17/20,Zhejiang,Nepal,7177.0
+6/17/20,Zhejiang,Netherlands,49204.0
+6/17/20,Zhejiang,New Zealand,1507.0
+6/17/20,Zhejiang,Nicaragua,1823.0
+6/17/20,Zhejiang,Niger,1020.0
+6/17/20,Zhejiang,Nigeria,17735.0
+6/17/20,Zhejiang,North Macedonia,4482.0
+6/17/20,Zhejiang,Norway,8692.0
+6/17/20,Zhejiang,Oman,26079.0
+6/17/20,Zhejiang,Pakistan,160118.0
+6/17/20,Zhejiang,Panama,22597.0
+6/17/20,Zhejiang,Papua New Guinea,8.0
+6/17/20,Zhejiang,Paraguay,1308.0
+6/17/20,Zhejiang,Peru,240908.0
+6/17/20,Zhejiang,Philippines,27238.0
+6/17/20,Zhejiang,Poland,30701.0
+6/17/20,Zhejiang,Portugal,37672.0
+6/17/20,Zhejiang,Qatar,83174.0
+6/17/20,Zhejiang,Romania,22760.0
+6/17/20,Zhejiang,Russia,552549.0
+6/17/20,Zhejiang,Rwanda,639.0
+6/17/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/17/20,Zhejiang,Saint Lucia,19.0
+6/17/20,Zhejiang,Saint Vincent and the Grenadines,29.0
+6/17/20,Zhejiang,San Marino,696.0
+6/17/20,Zhejiang,Sao Tome and Principe,683.0
+6/17/20,Zhejiang,Saudi Arabia,141234.0
+6/17/20,Zhejiang,Senegal,5369.0
+6/17/20,Zhejiang,Serbia,12522.0
+6/17/20,Zhejiang,Seychelles,11.0
+6/17/20,Zhejiang,Sierra Leone,1249.0
+6/17/20,Zhejiang,Singapore,41216.0
+6/17/20,Zhejiang,Slovakia,1561.0
+6/17/20,Zhejiang,Slovenia,1503.0
+6/17/20,Zhejiang,Somalia,2696.0
+6/17/20,Zhejiang,South Africa,80412.0
+6/17/20,Zhejiang,South Sudan,1813.0
+6/17/20,Zhejiang,Spain,244683.0
+6/17/20,Zhejiang,Sri Lanka,1924.0
+6/17/20,Zhejiang,Sudan,8020.0
+6/17/20,Zhejiang,Suriname,261.0
+6/17/20,Zhejiang,Sweden,54562.0
+6/17/20,Zhejiang,Switzerland,31187.0
+6/17/20,Zhejiang,Syria,178.0
+6/17/20,Zhejiang,Taiwan*,445.0
+6/17/20,Zhejiang,Tajikistan,5221.0
+6/17/20,Zhejiang,Tanzania,509.0
+6/17/20,Zhejiang,Thailand,3135.0
+6/17/20,Zhejiang,Timor-Leste,24.0
+6/17/20,Zhejiang,Togo,544.0
+6/17/20,Zhejiang,Trinidad and Tobago,123.0
+6/17/20,Zhejiang,Tunisia,1128.0
+6/17/20,Zhejiang,Turkey,182727.0
+6/17/20,Zhejiang,US,2163290.0
+6/17/20,Zhejiang,Uganda,732.0
+6/17/20,Zhejiang,Ukraine,33986.0
+6/17/20,Zhejiang,United Arab Emirates,43364.0
+6/17/20,Zhejiang,United Kingdom,299251.0
+6/17/20,Zhejiang,Uruguay,849.0
+6/17/20,Zhejiang,Uzbekistan,5682.0
+6/17/20,Zhejiang,Venezuela,3386.0
+6/17/20,Zhejiang,Vietnam,335.0
+6/17/20,Zhejiang,West Bank and Gaza,555.0
+6/17/20,Zhejiang,Western Sahara,9.0
+6/17/20,Zhejiang,Yemen,902.0
+6/17/20,Zhejiang,Zambia,1412.0
+6/17/20,Zhejiang,Zimbabwe,401.0
+6/18/20,,Afghanistan,27532.0
+6/18/20,,Albania,1788.0
+6/18/20,,Algeria,11385.0
+6/18/20,,Andorra,855.0
+6/18/20,,Angola,166.0
+6/18/20,,Antigua and Barbuda,26.0
+6/18/20,,Argentina,37510.0
+6/18/20,,Armenia,18698.0
+6/18/20,,Austria,17223.0
+6/18/20,,Azerbaijan,11329.0
+6/18/20,,Bahamas,104.0
+6/18/20,,Bahrain,20430.0
+6/18/20,,Bangladesh,102292.0
+6/18/20,,Barbados,97.0
+6/18/20,,Belarus,56657.0
+6/18/20,,Belgium,60348.0
+6/18/20,,Belize,22.0
+6/18/20,,Benin,597.0
+6/18/20,,Bhutan,67.0
+6/18/20,,Bolivia,21499.0
+6/18/20,,Bosnia and Herzegovina,3174.0
+6/18/20,,Botswana,79.0
+6/18/20,,Brazil,978142.0
+6/18/20,,Brunei,141.0
+6/18/20,,Bulgaria,3674.0
+6/18/20,,Burkina Faso,899.0
+6/18/20,,Burma,286.0
+6/18/20,,Burundi,104.0
+6/18/20,,Cabo Verde,823.0
+6/18/20,,Cambodia,129.0
+6/18/20,,Cameroon,9864.0
+6/18/20,,Central African Republic,2605.0
+6/18/20,,Chad,854.0
+6/18/20,,Chile,225103.0
+6/18/20,,China,1269.0
+6/18/20,,Colombia,57202.0
+6/18/20,,Comoros,210.0
+6/18/20,,Congo (Brazzaville),883.0
+6/18/20,,Congo (Kinshasa),5283.0
+6/18/20,,Costa Rica,1939.0
+6/18/20,,Cote d'Ivoire,6444.0
+6/18/20,,Croatia,2269.0
+6/18/20,,Cuba,2295.0
+6/18/20,,Cyprus,985.0
+6/18/20,,Czechia,10280.0
+6/18/20,,Denmark,12344.0
+6/18/20,,Diamond Princess,712.0
+6/18/20,,Djibouti,4557.0
+6/18/20,,Dominica,18.0
+6/18/20,,Dominican Republic,24645.0
+6/18/20,,Ecuador,49097.0
+6/18/20,,Egypt,50437.0
+6/18/20,,El Salvador,4200.0
+6/18/20,,Equatorial Guinea,1664.0
+6/18/20,,Eritrea,142.0
+6/18/20,,Estonia,1977.0
+6/18/20,,Eswatini,586.0
+6/18/20,,Ethiopia,3954.0
+6/18/20,,Fiji,18.0
+6/18/20,,Finland,7119.0
+6/18/20,,France,190107.0
+6/18/20,,Gabon,4340.0
+6/18/20,,Gambia,36.0
+6/18/20,,Georgia,893.0
+6/18/20,,Germany,189817.0
+6/18/20,,Ghana,12929.0
+6/18/20,,Greece,3227.0
+6/18/20,,Grenada,23.0
+6/18/20,,Guatemala,11868.0
+6/18/20,,Guinea,4841.0
+6/18/20,,Guinea-Bissau,1492.0
+6/18/20,,Guyana,183.0
+6/18/20,,Haiti,4916.0
+6/18/20,,Holy See,12.0
+6/18/20,,Honduras,10739.0
+6/18/20,,Hungary,4079.0
+6/18/20,,Iceland,1816.0
+6/18/20,,India,380532.0
+6/18/20,,Indonesia,42762.0
+6/18/20,,Iran,197647.0
+6/18/20,,Iraq,25717.0
+6/18/20,,Ireland,25355.0
+6/18/20,,Israel,20036.0
+6/18/20,,Italy,238159.0
+6/18/20,,Jamaica,638.0
+6/18/20,,Japan,17588.0
+6/18/20,,Jordan,1001.0
+6/18/20,,Kazakhstan,15877.0
+6/18/20,,Kenya,4257.0
+6/18/20,,"Korea, South",12306.0
+6/18/20,,Kosovo,1486.0
+6/18/20,,Kuwait,38074.0
+6/18/20,,Kyrgyzstan,2657.0
+6/18/20,,Laos,19.0
+6/18/20,,Latvia,1108.0
+6/18/20,,Lebanon,1495.0
+6/18/20,,Lesotho,4.0
+6/18/20,,Liberia,542.0
+6/18/20,,Libya,510.0
+6/18/20,,Liechtenstein,82.0
+6/18/20,,Lithuania,1784.0
+6/18/20,,Luxembourg,4091.0
+6/18/20,,MS Zaandam,9.0
+6/18/20,,Madagascar,1403.0
+6/18/20,,Malawi,592.0
+6/18/20,,Malaysia,8529.0
+6/18/20,,Maldives,2137.0
+6/18/20,,Mali,1906.0
+6/18/20,,Malta,663.0
+6/18/20,,Mauritania,2424.0
+6/18/20,,Mauritius,337.0
+6/18/20,,Mexico,165455.0
+6/18/20,,Moldova,13106.0
+6/18/20,,Monaco,99.0
+6/18/20,,Mongolia,204.0
+6/18/20,,Montenegro,337.0
+6/18/20,,Morocco,9074.0
+6/18/20,,Mozambique,662.0
+6/18/20,,Namibia,39.0
+6/18/20,,Nepal,7848.0
+6/18/20,,Netherlands,49319.0
+6/18/20,,New Zealand,1507.0
+6/18/20,,Nicaragua,1823.0
+6/18/20,,Niger,1020.0
+6/18/20,,Nigeria,18480.0
+6/18/20,,North Macedonia,4664.0
+6/18/20,,Norway,8708.0
+6/18/20,,Oman,26818.0
+6/18/20,,Pakistan,165062.0
+6/18/20,,Panama,23351.0
+6/18/20,,Papua New Guinea,8.0
+6/18/20,,Paraguay,1330.0
+6/18/20,,Peru,244388.0
+6/18/20,,Philippines,27799.0
+6/18/20,,Poland,31015.0
+6/18/20,,Portugal,38089.0
+6/18/20,,Qatar,84441.0
+6/18/20,,Romania,23080.0
+6/18/20,,Russia,560321.0
+6/18/20,,Rwanda,646.0
+6/18/20,,Saint Kitts and Nevis,15.0
+6/18/20,,Saint Lucia,19.0
+6/18/20,,Saint Vincent and the Grenadines,29.0
+6/18/20,,San Marino,696.0
+6/18/20,,Sao Tome and Principe,688.0
+6/18/20,,Saudi Arabia,145991.0
+6/18/20,,Senegal,5475.0
+6/18/20,,Serbia,12616.0
+6/18/20,,Seychelles,11.0
+6/18/20,,Sierra Leone,1272.0
+6/18/20,,Singapore,41473.0
+6/18/20,,Slovakia,1562.0
+6/18/20,,Slovenia,1511.0
+6/18/20,,Somalia,2719.0
+6/18/20,,South Africa,83890.0
+6/18/20,,South Sudan,1830.0
+6/18/20,,Spain,245268.0
+6/18/20,,Sri Lanka,1947.0
+6/18/20,,Sudan,8020.0
+6/18/20,,Suriname,277.0
+6/18/20,,Sweden,56043.0
+6/18/20,,Switzerland,31200.0
+6/18/20,,Syria,187.0
+6/18/20,,Taiwan*,446.0
+6/18/20,,Tajikistan,5279.0
+6/18/20,,Tanzania,509.0
+6/18/20,,Thailand,3141.0
+6/18/20,,Timor-Leste,24.0
+6/18/20,,Togo,547.0
+6/18/20,,Trinidad and Tobago,123.0
+6/18/20,,Tunisia,1132.0
+6/18/20,,Turkey,184031.0
+6/18/20,,US,2191052.0
+6/18/20,,Uganda,741.0
+6/18/20,,Ukraine,34833.0
+6/18/20,,United Arab Emirates,43752.0
+6/18/20,,United Kingdom,300469.0
+6/18/20,,Uruguay,850.0
+6/18/20,,Uzbekistan,5767.0
+6/18/20,,Venezuela,3483.0
+6/18/20,,Vietnam,342.0
+6/18/20,,West Bank and Gaza,600.0
+6/18/20,,Western Sahara,9.0
+6/18/20,,Yemen,909.0
+6/18/20,,Zambia,1416.0
+6/18/20,,Zimbabwe,463.0
+6/18/20,Alberta,Canada,7579.0
+6/18/20,Anguilla,United Kingdom,3.0
+6/18/20,Anhui,China,991.0
+6/18/20,Aruba,Netherlands,101.0
+6/18/20,Australian Capital Territory,Australia,108.0
+6/18/20,Beijing,China,777.0
+6/18/20,Bermuda,United Kingdom,144.0
+6/18/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/18/20,British Columbia,Canada,2783.0
+6/18/20,British Virgin Islands,United Kingdom,8.0
+6/18/20,Cayman Islands,United Kingdom,193.0
+6/18/20,Channel Islands,United Kingdom,570.0
+6/18/20,Chongqing,China,582.0
+6/18/20,Curacao,Netherlands,23.0
+6/18/20,Diamond Princess,Canada,0.0
+6/18/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/18/20,Faroe Islands,Denmark,187.0
+6/18/20,French Guiana,France,1758.0
+6/18/20,French Polynesia,France,60.0
+6/18/20,Fujian,China,362.0
+6/18/20,Gansu,China,151.0
+6/18/20,Gibraltar,United Kingdom,176.0
+6/18/20,Grand Princess,Canada,13.0
+6/18/20,Greenland,Denmark,13.0
+6/18/20,Guadeloupe,France,171.0
+6/18/20,Guangdong,China,1631.0
+6/18/20,Guangxi,China,254.0
+6/18/20,Guizhou,China,147.0
+6/18/20,Hainan,China,171.0
+6/18/20,Hebei,China,340.0
+6/18/20,Heilongjiang,China,947.0
+6/18/20,Henan,China,1276.0
+6/18/20,Hong Kong,China,1124.0
+6/18/20,Hubei,China,68135.0
+6/18/20,Hunan,China,1019.0
+6/18/20,Inner Mongolia,China,238.0
+6/18/20,Isle of Man,United Kingdom,336.0
+6/18/20,Jiangsu,China,653.0
+6/18/20,Jiangxi,China,932.0
+6/18/20,Jilin,China,155.0
+6/18/20,Liaoning,China,153.0
+6/18/20,Macau,China,45.0
+6/18/20,Manitoba,Canada,308.0
+6/18/20,Martinique,France,221.0
+6/18/20,Mayotte,France,2383.0
+6/18/20,Montserrat,United Kingdom,11.0
+6/18/20,New Brunswick,Canada,164.0
+6/18/20,New Caledonia,France,21.0
+6/18/20,New South Wales,Australia,3143.0
+6/18/20,Newfoundland and Labrador,Canada,261.0
+6/18/20,Ningxia,China,75.0
+6/18/20,Northern Territory,Australia,29.0
+6/18/20,Northwest Territories,Canada,5.0
+6/18/20,Nova Scotia,Canada,1061.0
+6/18/20,Ontario,Canada,34574.0
+6/18/20,Prince Edward Island,Canada,27.0
+6/18/20,Qinghai,China,18.0
+6/18/20,Quebec,Canada,54383.0
+6/18/20,Queensland,Australia,1066.0
+6/18/20,Reunion,France,502.0
+6/18/20,Saint Barthelemy,France,6.0
+6/18/20,Saint Pierre and Miquelon,France,1.0
+6/18/20,Saskatchewan,Canada,708.0
+6/18/20,Shaanxi,China,314.0
+6/18/20,Shandong,China,792.0
+6/18/20,Shanghai,China,697.0
+6/18/20,Shanxi,China,198.0
+6/18/20,Sichuan,China,589.0
+6/18/20,Sint Maarten,Netherlands,77.0
+6/18/20,South Australia,Australia,440.0
+6/18/20,St Martin,France,42.0
+6/18/20,Tasmania,Australia,228.0
+6/18/20,Tianjin,China,197.0
+6/18/20,Tibet,China,1.0
+6/18/20,Turks and Caicos Islands,United Kingdom,12.0
+6/18/20,Victoria,Australia,1792.0
+6/18/20,Western Australia,Australia,603.0
+6/18/20,Xinjiang,China,76.0
+6/18/20,Yukon,Canada,11.0
+6/18/20,Yunnan,China,185.0
+6/18/20,Zhejiang,Afghanistan,27532.0
+6/18/20,Zhejiang,Albania,1788.0
+6/18/20,Zhejiang,Algeria,11385.0
+6/18/20,Zhejiang,Andorra,855.0
+6/18/20,Zhejiang,Angola,166.0
+6/18/20,Zhejiang,Antigua and Barbuda,26.0
+6/18/20,Zhejiang,Argentina,37510.0
+6/18/20,Zhejiang,Armenia,18698.0
+6/18/20,Zhejiang,Austria,17223.0
+6/18/20,Zhejiang,Azerbaijan,11329.0
+6/18/20,Zhejiang,Bahamas,104.0
+6/18/20,Zhejiang,Bahrain,20430.0
+6/18/20,Zhejiang,Bangladesh,102292.0
+6/18/20,Zhejiang,Barbados,97.0
+6/18/20,Zhejiang,Belarus,56657.0
+6/18/20,Zhejiang,Belgium,60348.0
+6/18/20,Zhejiang,Belize,22.0
+6/18/20,Zhejiang,Benin,597.0
+6/18/20,Zhejiang,Bhutan,67.0
+6/18/20,Zhejiang,Bolivia,21499.0
+6/18/20,Zhejiang,Bosnia and Herzegovina,3174.0
+6/18/20,Zhejiang,Botswana,79.0
+6/18/20,Zhejiang,Brazil,978142.0
+6/18/20,Zhejiang,Brunei,141.0
+6/18/20,Zhejiang,Bulgaria,3674.0
+6/18/20,Zhejiang,Burkina Faso,899.0
+6/18/20,Zhejiang,Burma,286.0
+6/18/20,Zhejiang,Burundi,104.0
+6/18/20,Zhejiang,Cabo Verde,823.0
+6/18/20,Zhejiang,Cambodia,129.0
+6/18/20,Zhejiang,Cameroon,9864.0
+6/18/20,Zhejiang,Central African Republic,2605.0
+6/18/20,Zhejiang,Chad,854.0
+6/18/20,Zhejiang,Chile,225103.0
+6/18/20,Zhejiang,China,1269.0
+6/18/20,Zhejiang,Colombia,57202.0
+6/18/20,Zhejiang,Comoros,210.0
+6/18/20,Zhejiang,Congo (Brazzaville),883.0
+6/18/20,Zhejiang,Congo (Kinshasa),5283.0
+6/18/20,Zhejiang,Costa Rica,1939.0
+6/18/20,Zhejiang,Cote d'Ivoire,6444.0
+6/18/20,Zhejiang,Croatia,2269.0
+6/18/20,Zhejiang,Cuba,2295.0
+6/18/20,Zhejiang,Cyprus,985.0
+6/18/20,Zhejiang,Czechia,10280.0
+6/18/20,Zhejiang,Denmark,12344.0
+6/18/20,Zhejiang,Diamond Princess,712.0
+6/18/20,Zhejiang,Djibouti,4557.0
+6/18/20,Zhejiang,Dominica,18.0
+6/18/20,Zhejiang,Dominican Republic,24645.0
+6/18/20,Zhejiang,Ecuador,49097.0
+6/18/20,Zhejiang,Egypt,50437.0
+6/18/20,Zhejiang,El Salvador,4200.0
+6/18/20,Zhejiang,Equatorial Guinea,1664.0
+6/18/20,Zhejiang,Eritrea,142.0
+6/18/20,Zhejiang,Estonia,1977.0
+6/18/20,Zhejiang,Eswatini,586.0
+6/18/20,Zhejiang,Ethiopia,3954.0
+6/18/20,Zhejiang,Fiji,18.0
+6/18/20,Zhejiang,Finland,7119.0
+6/18/20,Zhejiang,France,190107.0
+6/18/20,Zhejiang,Gabon,4340.0
+6/18/20,Zhejiang,Gambia,36.0
+6/18/20,Zhejiang,Georgia,893.0
+6/18/20,Zhejiang,Germany,189817.0
+6/18/20,Zhejiang,Ghana,12929.0
+6/18/20,Zhejiang,Greece,3227.0
+6/18/20,Zhejiang,Grenada,23.0
+6/18/20,Zhejiang,Guatemala,11868.0
+6/18/20,Zhejiang,Guinea,4841.0
+6/18/20,Zhejiang,Guinea-Bissau,1492.0
+6/18/20,Zhejiang,Guyana,183.0
+6/18/20,Zhejiang,Haiti,4916.0
+6/18/20,Zhejiang,Holy See,12.0
+6/18/20,Zhejiang,Honduras,10739.0
+6/18/20,Zhejiang,Hungary,4079.0
+6/18/20,Zhejiang,Iceland,1816.0
+6/18/20,Zhejiang,India,380532.0
+6/18/20,Zhejiang,Indonesia,42762.0
+6/18/20,Zhejiang,Iran,197647.0
+6/18/20,Zhejiang,Iraq,25717.0
+6/18/20,Zhejiang,Ireland,25355.0
+6/18/20,Zhejiang,Israel,20036.0
+6/18/20,Zhejiang,Italy,238159.0
+6/18/20,Zhejiang,Jamaica,638.0
+6/18/20,Zhejiang,Japan,17588.0
+6/18/20,Zhejiang,Jordan,1001.0
+6/18/20,Zhejiang,Kazakhstan,15877.0
+6/18/20,Zhejiang,Kenya,4257.0
+6/18/20,Zhejiang,"Korea, South",12306.0
+6/18/20,Zhejiang,Kosovo,1486.0
+6/18/20,Zhejiang,Kuwait,38074.0
+6/18/20,Zhejiang,Kyrgyzstan,2657.0
+6/18/20,Zhejiang,Laos,19.0
+6/18/20,Zhejiang,Latvia,1108.0
+6/18/20,Zhejiang,Lebanon,1495.0
+6/18/20,Zhejiang,Lesotho,4.0
+6/18/20,Zhejiang,Liberia,542.0
+6/18/20,Zhejiang,Libya,510.0
+6/18/20,Zhejiang,Liechtenstein,82.0
+6/18/20,Zhejiang,Lithuania,1784.0
+6/18/20,Zhejiang,Luxembourg,4091.0
+6/18/20,Zhejiang,MS Zaandam,9.0
+6/18/20,Zhejiang,Madagascar,1403.0
+6/18/20,Zhejiang,Malawi,592.0
+6/18/20,Zhejiang,Malaysia,8529.0
+6/18/20,Zhejiang,Maldives,2137.0
+6/18/20,Zhejiang,Mali,1906.0
+6/18/20,Zhejiang,Malta,663.0
+6/18/20,Zhejiang,Mauritania,2424.0
+6/18/20,Zhejiang,Mauritius,337.0
+6/18/20,Zhejiang,Mexico,165455.0
+6/18/20,Zhejiang,Moldova,13106.0
+6/18/20,Zhejiang,Monaco,99.0
+6/18/20,Zhejiang,Mongolia,204.0
+6/18/20,Zhejiang,Montenegro,337.0
+6/18/20,Zhejiang,Morocco,9074.0
+6/18/20,Zhejiang,Mozambique,662.0
+6/18/20,Zhejiang,Namibia,39.0
+6/18/20,Zhejiang,Nepal,7848.0
+6/18/20,Zhejiang,Netherlands,49319.0
+6/18/20,Zhejiang,New Zealand,1507.0
+6/18/20,Zhejiang,Nicaragua,1823.0
+6/18/20,Zhejiang,Niger,1020.0
+6/18/20,Zhejiang,Nigeria,18480.0
+6/18/20,Zhejiang,North Macedonia,4664.0
+6/18/20,Zhejiang,Norway,8708.0
+6/18/20,Zhejiang,Oman,26818.0
+6/18/20,Zhejiang,Pakistan,165062.0
+6/18/20,Zhejiang,Panama,23351.0
+6/18/20,Zhejiang,Papua New Guinea,8.0
+6/18/20,Zhejiang,Paraguay,1330.0
+6/18/20,Zhejiang,Peru,244388.0
+6/18/20,Zhejiang,Philippines,27799.0
+6/18/20,Zhejiang,Poland,31015.0
+6/18/20,Zhejiang,Portugal,38089.0
+6/18/20,Zhejiang,Qatar,84441.0
+6/18/20,Zhejiang,Romania,23080.0
+6/18/20,Zhejiang,Russia,560321.0
+6/18/20,Zhejiang,Rwanda,646.0
+6/18/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/18/20,Zhejiang,Saint Lucia,19.0
+6/18/20,Zhejiang,Saint Vincent and the Grenadines,29.0
+6/18/20,Zhejiang,San Marino,696.0
+6/18/20,Zhejiang,Sao Tome and Principe,688.0
+6/18/20,Zhejiang,Saudi Arabia,145991.0
+6/18/20,Zhejiang,Senegal,5475.0
+6/18/20,Zhejiang,Serbia,12616.0
+6/18/20,Zhejiang,Seychelles,11.0
+6/18/20,Zhejiang,Sierra Leone,1272.0
+6/18/20,Zhejiang,Singapore,41473.0
+6/18/20,Zhejiang,Slovakia,1562.0
+6/18/20,Zhejiang,Slovenia,1511.0
+6/18/20,Zhejiang,Somalia,2719.0
+6/18/20,Zhejiang,South Africa,83890.0
+6/18/20,Zhejiang,South Sudan,1830.0
+6/18/20,Zhejiang,Spain,245268.0
+6/18/20,Zhejiang,Sri Lanka,1947.0
+6/18/20,Zhejiang,Sudan,8020.0
+6/18/20,Zhejiang,Suriname,277.0
+6/18/20,Zhejiang,Sweden,56043.0
+6/18/20,Zhejiang,Switzerland,31200.0
+6/18/20,Zhejiang,Syria,187.0
+6/18/20,Zhejiang,Taiwan*,446.0
+6/18/20,Zhejiang,Tajikistan,5279.0
+6/18/20,Zhejiang,Tanzania,509.0
+6/18/20,Zhejiang,Thailand,3141.0
+6/18/20,Zhejiang,Timor-Leste,24.0
+6/18/20,Zhejiang,Togo,547.0
+6/18/20,Zhejiang,Trinidad and Tobago,123.0
+6/18/20,Zhejiang,Tunisia,1132.0
+6/18/20,Zhejiang,Turkey,184031.0
+6/18/20,Zhejiang,US,2191052.0
+6/18/20,Zhejiang,Uganda,741.0
+6/18/20,Zhejiang,Ukraine,34833.0
+6/18/20,Zhejiang,United Arab Emirates,43752.0
+6/18/20,Zhejiang,United Kingdom,300469.0
+6/18/20,Zhejiang,Uruguay,850.0
+6/18/20,Zhejiang,Uzbekistan,5767.0
+6/18/20,Zhejiang,Venezuela,3483.0
+6/18/20,Zhejiang,Vietnam,342.0
+6/18/20,Zhejiang,West Bank and Gaza,600.0
+6/18/20,Zhejiang,Western Sahara,9.0
+6/18/20,Zhejiang,Yemen,909.0
+6/18/20,Zhejiang,Zambia,1416.0
+6/18/20,Zhejiang,Zimbabwe,463.0
+6/19/20,,Afghanistan,27878.0
+6/19/20,,Albania,1838.0
+6/19/20,,Algeria,11504.0
+6/19/20,,Andorra,855.0
+6/19/20,,Angola,172.0
+6/19/20,,Antigua and Barbuda,26.0
+6/19/20,,Argentina,39570.0
+6/19/20,,Armenia,19157.0
+6/19/20,,Austria,17271.0
+6/19/20,,Azerbaijan,11767.0
+6/19/20,,Bahamas,104.0
+6/19/20,,Bahrain,20916.0
+6/19/20,,Bangladesh,105535.0
+6/19/20,,Barbados,97.0
+6/19/20,,Belarus,57333.0
+6/19/20,,Belgium,60476.0
+6/19/20,,Belize,22.0
+6/19/20,,Benin,650.0
+6/19/20,,Bhutan,68.0
+6/19/20,,Bolivia,22476.0
+6/19/20,,Bosnia and Herzegovina,3273.0
+6/19/20,,Botswana,89.0
+6/19/20,,Brazil,1032913.0
+6/19/20,,Brunei,141.0
+6/19/20,,Bulgaria,3755.0
+6/19/20,,Burkina Faso,900.0
+6/19/20,,Burma,286.0
+6/19/20,,Burundi,104.0
+6/19/20,,Cabo Verde,848.0
+6/19/20,,Cambodia,129.0
+6/19/20,,Cameroon,10638.0
+6/19/20,,Central African Republic,2605.0
+6/19/20,,Chad,858.0
+6/19/20,,Chile,231393.0
+6/19/20,,China,1269.0
+6/19/20,,Colombia,60387.0
+6/19/20,,Comoros,210.0
+6/19/20,,Congo (Brazzaville),883.0
+6/19/20,,Congo (Kinshasa),5477.0
+6/19/20,,Costa Rica,2058.0
+6/19/20,,Cote d'Ivoire,6874.0
+6/19/20,,Croatia,2280.0
+6/19/20,,Cuba,2305.0
+6/19/20,,Cyprus,985.0
+6/19/20,,Czechia,10406.0
+6/19/20,,Denmark,12391.0
+6/19/20,,Diamond Princess,712.0
+6/19/20,,Djibouti,4565.0
+6/19/20,,Dominica,18.0
+6/19/20,,Dominican Republic,25068.0
+6/19/20,,Ecuador,49731.0
+6/19/20,,Egypt,52211.0
+6/19/20,,El Salvador,4329.0
+6/19/20,,Equatorial Guinea,1664.0
+6/19/20,,Eritrea,142.0
+6/19/20,,Estonia,1979.0
+6/19/20,,Eswatini,623.0
+6/19/20,,Ethiopia,4070.0
+6/19/20,,Fiji,18.0
+6/19/20,,Finland,7133.0
+6/19/20,,France,190676.0
+6/19/20,,Gabon,4428.0
+6/19/20,,Gambia,36.0
+6/19/20,,Georgia,896.0
+6/19/20,,Germany,190299.0
+6/19/20,,Ghana,13203.0
+6/19/20,,Greece,3237.0
+6/19/20,,Grenada,23.0
+6/19/20,,Guatemala,12509.0
+6/19/20,,Guinea,4904.0
+6/19/20,,Guinea-Bissau,1541.0
+6/19/20,,Guyana,183.0
+6/19/20,,Haiti,4980.0
+6/19/20,,Holy See,12.0
+6/19/20,,Honduras,11258.0
+6/19/20,,Hungary,4081.0
+6/19/20,,Iceland,1819.0
+6/19/20,,India,395048.0
+6/19/20,,Indonesia,43803.0
+6/19/20,,Iran,200262.0
+6/19/20,,Iraq,27352.0
+6/19/20,,Ireland,25368.0
+6/19/20,,Israel,20339.0
+6/19/20,,Italy,238011.0
+6/19/20,,Jamaica,652.0
+6/19/20,,Japan,17658.0
+6/19/20,,Jordan,1008.0
+6/19/20,,Kazakhstan,16779.0
+6/19/20,,Kenya,4374.0
+6/19/20,,"Korea, South",12373.0
+6/19/20,,Kosovo,1486.0
+6/19/20,,Kuwait,38678.0
+6/19/20,,Kyrgyzstan,2789.0
+6/19/20,,Laos,19.0
+6/19/20,,Latvia,1110.0
+6/19/20,,Lebanon,1510.0
+6/19/20,,Lesotho,4.0
+6/19/20,,Liberia,581.0
+6/19/20,,Libya,520.0
+6/19/20,,Liechtenstein,82.0
+6/19/20,,Lithuania,1792.0
+6/19/20,,Luxembourg,4099.0
+6/19/20,,MS Zaandam,9.0
+6/19/20,,Madagascar,1443.0
+6/19/20,,Malawi,620.0
+6/19/20,,Malaysia,8535.0
+6/19/20,,Maldives,2150.0
+6/19/20,,Mali,1923.0
+6/19/20,,Malta,663.0
+6/19/20,,Mauritania,2621.0
+6/19/20,,Mauritius,337.0
+6/19/20,,Mexico,170485.0
+6/19/20,,Moldova,13556.0
+6/19/20,,Monaco,99.0
+6/19/20,,Mongolia,204.0
+6/19/20,,Montenegro,355.0
+6/19/20,,Morocco,9613.0
+6/19/20,,Mozambique,668.0
+6/19/20,,Namibia,45.0
+6/19/20,,Nepal,8274.0
+6/19/20,,Netherlands,49426.0
+6/19/20,,New Zealand,1509.0
+6/19/20,,Nicaragua,1823.0
+6/19/20,,Niger,1020.0
+6/19/20,,Nigeria,19147.0
+6/19/20,,North Macedonia,4820.0
+6/19/20,,Norway,8726.0
+6/19/20,,Oman,27670.0
+6/19/20,,Pakistan,171666.0
+6/19/20,,Panama,24274.0
+6/19/20,,Papua New Guinea,8.0
+6/19/20,,Paraguay,1336.0
+6/19/20,,Peru,244388.0
+6/19/20,,Philippines,28459.0
+6/19/20,,Poland,31316.0
+6/19/20,,Portugal,38464.0
+6/19/20,,Qatar,85462.0
+6/19/20,,Romania,23400.0
+6/19/20,,Russia,568292.0
+6/19/20,,Rwanda,661.0
+6/19/20,,Saint Kitts and Nevis,15.0
+6/19/20,,Saint Lucia,19.0
+6/19/20,,Saint Vincent and the Grenadines,29.0
+6/19/20,,San Marino,696.0
+6/19/20,,Sao Tome and Principe,693.0
+6/19/20,,Saudi Arabia,150292.0
+6/19/20,,Senegal,5639.0
+6/19/20,,Serbia,12709.0
+6/19/20,,Seychelles,11.0
+6/19/20,,Sierra Leone,1298.0
+6/19/20,,Singapore,41615.0
+6/19/20,,Slovakia,1576.0
+6/19/20,,Slovenia,1513.0
+6/19/20,,Somalia,2719.0
+6/19/20,,South Africa,87715.0
+6/19/20,,South Sudan,1864.0
+6/19/20,,Spain,245575.0
+6/19/20,,Sri Lanka,1950.0
+6/19/20,,Sudan,8316.0
+6/19/20,,Suriname,293.0
+6/19/20,,Sweden,56043.0
+6/19/20,,Switzerland,31235.0
+6/19/20,,Syria,187.0
+6/19/20,,Taiwan*,446.0
+6/19/20,,Tajikistan,5338.0
+6/19/20,,Tanzania,509.0
+6/19/20,,Thailand,3146.0
+6/19/20,,Timor-Leste,24.0
+6/19/20,,Togo,555.0
+6/19/20,,Trinidad and Tobago,123.0
+6/19/20,,Tunisia,1146.0
+6/19/20,,Turkey,185245.0
+6/19/20,,US,2222579.0
+6/19/20,,Uganda,755.0
+6/19/20,,Ukraine,35755.0
+6/19/20,,United Arab Emirates,44145.0
+6/19/20,,United Kingdom,301815.0
+6/19/20,,Uruguay,853.0
+6/19/20,,Uzbekistan,5946.0
+6/19/20,,Venezuela,3591.0
+6/19/20,,Vietnam,349.0
+6/19/20,,West Bank and Gaza,675.0
+6/19/20,,Western Sahara,9.0
+6/19/20,,Yemen,919.0
+6/19/20,,Zambia,1430.0
+6/19/20,,Zimbabwe,479.0
+6/19/20,Alberta,Canada,7625.0
+6/19/20,Anguilla,United Kingdom,3.0
+6/19/20,Anhui,China,991.0
+6/19/20,Aruba,Netherlands,101.0
+6/19/20,Australian Capital Territory,Australia,108.0
+6/19/20,Beijing,China,777.0
+6/19/20,Bermuda,United Kingdom,146.0
+6/19/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/19/20,British Columbia,Canada,2790.0
+6/19/20,British Virgin Islands,United Kingdom,8.0
+6/19/20,Cayman Islands,United Kingdom,195.0
+6/19/20,Channel Islands,United Kingdom,570.0
+6/19/20,Chongqing,China,582.0
+6/19/20,Curacao,Netherlands,23.0
+6/19/20,Diamond Princess,Canada,0.0
+6/19/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/19/20,Faroe Islands,Denmark,187.0
+6/19/20,French Guiana,France,1969.0
+6/19/20,French Polynesia,France,60.0
+6/19/20,Fujian,China,362.0
+6/19/20,Gansu,China,151.0
+6/19/20,Gibraltar,United Kingdom,176.0
+6/19/20,Grand Princess,Canada,13.0
+6/19/20,Greenland,Denmark,13.0
+6/19/20,Guadeloupe,France,174.0
+6/19/20,Guangdong,China,1631.0
+6/19/20,Guangxi,China,254.0
+6/19/20,Guizhou,China,147.0
+6/19/20,Hainan,China,171.0
+6/19/20,Hebei,China,340.0
+6/19/20,Heilongjiang,China,947.0
+6/19/20,Henan,China,1276.0
+6/19/20,Hong Kong,China,1124.0
+6/19/20,Hubei,China,68135.0
+6/19/20,Hunan,China,1019.0
+6/19/20,Inner Mongolia,China,238.0
+6/19/20,Isle of Man,United Kingdom,336.0
+6/19/20,Jiangsu,China,653.0
+6/19/20,Jiangxi,China,932.0
+6/19/20,Jilin,China,155.0
+6/19/20,Liaoning,China,153.0
+6/19/20,Macau,China,45.0
+6/19/20,Manitoba,Canada,311.0
+6/19/20,Martinique,France,236.0
+6/19/20,Mayotte,France,2394.0
+6/19/20,Montserrat,United Kingdom,11.0
+6/19/20,New Brunswick,Canada,164.0
+6/19/20,New Caledonia,France,21.0
+6/19/20,New South Wales,Australia,3144.0
+6/19/20,Newfoundland and Labrador,Canada,261.0
+6/19/20,Ningxia,China,75.0
+6/19/20,Northern Territory,Australia,29.0
+6/19/20,Northwest Territories,Canada,5.0
+6/19/20,Nova Scotia,Canada,1061.0
+6/19/20,Ontario,Canada,34780.0
+6/19/20,Prince Edward Island,Canada,27.0
+6/19/20,Qinghai,China,18.0
+6/19/20,Quebec,Canada,54550.0
+6/19/20,Queensland,Australia,1066.0
+6/19/20,Reunion,France,504.0
+6/19/20,Saint Barthelemy,France,6.0
+6/19/20,Saint Pierre and Miquelon,France,1.0
+6/19/20,Saskatchewan,Canada,716.0
+6/19/20,Shaanxi,China,314.0
+6/19/20,Shandong,China,792.0
+6/19/20,Shanghai,China,697.0
+6/19/20,Shanxi,China,198.0
+6/19/20,Sichuan,China,589.0
+6/19/20,Sint Maarten,Netherlands,77.0
+6/19/20,South Australia,Australia,440.0
+6/19/20,St Martin,France,42.0
+6/19/20,Tasmania,Australia,228.0
+6/19/20,Tianjin,China,197.0
+6/19/20,Tibet,China,1.0
+6/19/20,Turks and Caicos Islands,United Kingdom,12.0
+6/19/20,Victoria,Australia,1792.0
+6/19/20,Western Australia,Australia,604.0
+6/19/20,Xinjiang,China,76.0
+6/19/20,Yukon,Canada,11.0
+6/19/20,Yunnan,China,185.0
+6/19/20,Zhejiang,Afghanistan,27878.0
+6/19/20,Zhejiang,Albania,1838.0
+6/19/20,Zhejiang,Algeria,11504.0
+6/19/20,Zhejiang,Andorra,855.0
+6/19/20,Zhejiang,Angola,172.0
+6/19/20,Zhejiang,Antigua and Barbuda,26.0
+6/19/20,Zhejiang,Argentina,39570.0
+6/19/20,Zhejiang,Armenia,19157.0
+6/19/20,Zhejiang,Austria,17271.0
+6/19/20,Zhejiang,Azerbaijan,11767.0
+6/19/20,Zhejiang,Bahamas,104.0
+6/19/20,Zhejiang,Bahrain,20916.0
+6/19/20,Zhejiang,Bangladesh,105535.0
+6/19/20,Zhejiang,Barbados,97.0
+6/19/20,Zhejiang,Belarus,57333.0
+6/19/20,Zhejiang,Belgium,60476.0
+6/19/20,Zhejiang,Belize,22.0
+6/19/20,Zhejiang,Benin,650.0
+6/19/20,Zhejiang,Bhutan,68.0
+6/19/20,Zhejiang,Bolivia,22476.0
+6/19/20,Zhejiang,Bosnia and Herzegovina,3273.0
+6/19/20,Zhejiang,Botswana,89.0
+6/19/20,Zhejiang,Brazil,1032913.0
+6/19/20,Zhejiang,Brunei,141.0
+6/19/20,Zhejiang,Bulgaria,3755.0
+6/19/20,Zhejiang,Burkina Faso,900.0
+6/19/20,Zhejiang,Burma,286.0
+6/19/20,Zhejiang,Burundi,104.0
+6/19/20,Zhejiang,Cabo Verde,848.0
+6/19/20,Zhejiang,Cambodia,129.0
+6/19/20,Zhejiang,Cameroon,10638.0
+6/19/20,Zhejiang,Central African Republic,2605.0
+6/19/20,Zhejiang,Chad,858.0
+6/19/20,Zhejiang,Chile,231393.0
+6/19/20,Zhejiang,China,1269.0
+6/19/20,Zhejiang,Colombia,60387.0
+6/19/20,Zhejiang,Comoros,210.0
+6/19/20,Zhejiang,Congo (Brazzaville),883.0
+6/19/20,Zhejiang,Congo (Kinshasa),5477.0
+6/19/20,Zhejiang,Costa Rica,2058.0
+6/19/20,Zhejiang,Cote d'Ivoire,6874.0
+6/19/20,Zhejiang,Croatia,2280.0
+6/19/20,Zhejiang,Cuba,2305.0
+6/19/20,Zhejiang,Cyprus,985.0
+6/19/20,Zhejiang,Czechia,10406.0
+6/19/20,Zhejiang,Denmark,12391.0
+6/19/20,Zhejiang,Diamond Princess,712.0
+6/19/20,Zhejiang,Djibouti,4565.0
+6/19/20,Zhejiang,Dominica,18.0
+6/19/20,Zhejiang,Dominican Republic,25068.0
+6/19/20,Zhejiang,Ecuador,49731.0
+6/19/20,Zhejiang,Egypt,52211.0
+6/19/20,Zhejiang,El Salvador,4329.0
+6/19/20,Zhejiang,Equatorial Guinea,1664.0
+6/19/20,Zhejiang,Eritrea,142.0
+6/19/20,Zhejiang,Estonia,1979.0
+6/19/20,Zhejiang,Eswatini,623.0
+6/19/20,Zhejiang,Ethiopia,4070.0
+6/19/20,Zhejiang,Fiji,18.0
+6/19/20,Zhejiang,Finland,7133.0
+6/19/20,Zhejiang,France,190676.0
+6/19/20,Zhejiang,Gabon,4428.0
+6/19/20,Zhejiang,Gambia,36.0
+6/19/20,Zhejiang,Georgia,896.0
+6/19/20,Zhejiang,Germany,190299.0
+6/19/20,Zhejiang,Ghana,13203.0
+6/19/20,Zhejiang,Greece,3237.0
+6/19/20,Zhejiang,Grenada,23.0
+6/19/20,Zhejiang,Guatemala,12509.0
+6/19/20,Zhejiang,Guinea,4904.0
+6/19/20,Zhejiang,Guinea-Bissau,1541.0
+6/19/20,Zhejiang,Guyana,183.0
+6/19/20,Zhejiang,Haiti,4980.0
+6/19/20,Zhejiang,Holy See,12.0
+6/19/20,Zhejiang,Honduras,11258.0
+6/19/20,Zhejiang,Hungary,4081.0
+6/19/20,Zhejiang,Iceland,1819.0
+6/19/20,Zhejiang,India,395048.0
+6/19/20,Zhejiang,Indonesia,43803.0
+6/19/20,Zhejiang,Iran,200262.0
+6/19/20,Zhejiang,Iraq,27352.0
+6/19/20,Zhejiang,Ireland,25368.0
+6/19/20,Zhejiang,Israel,20339.0
+6/19/20,Zhejiang,Italy,238011.0
+6/19/20,Zhejiang,Jamaica,652.0
+6/19/20,Zhejiang,Japan,17658.0
+6/19/20,Zhejiang,Jordan,1008.0
+6/19/20,Zhejiang,Kazakhstan,16779.0
+6/19/20,Zhejiang,Kenya,4374.0
+6/19/20,Zhejiang,"Korea, South",12373.0
+6/19/20,Zhejiang,Kosovo,1486.0
+6/19/20,Zhejiang,Kuwait,38678.0
+6/19/20,Zhejiang,Kyrgyzstan,2789.0
+6/19/20,Zhejiang,Laos,19.0
+6/19/20,Zhejiang,Latvia,1110.0
+6/19/20,Zhejiang,Lebanon,1510.0
+6/19/20,Zhejiang,Lesotho,4.0
+6/19/20,Zhejiang,Liberia,581.0
+6/19/20,Zhejiang,Libya,520.0
+6/19/20,Zhejiang,Liechtenstein,82.0
+6/19/20,Zhejiang,Lithuania,1792.0
+6/19/20,Zhejiang,Luxembourg,4099.0
+6/19/20,Zhejiang,MS Zaandam,9.0
+6/19/20,Zhejiang,Madagascar,1443.0
+6/19/20,Zhejiang,Malawi,620.0
+6/19/20,Zhejiang,Malaysia,8535.0
+6/19/20,Zhejiang,Maldives,2150.0
+6/19/20,Zhejiang,Mali,1923.0
+6/19/20,Zhejiang,Malta,663.0
+6/19/20,Zhejiang,Mauritania,2621.0
+6/19/20,Zhejiang,Mauritius,337.0
+6/19/20,Zhejiang,Mexico,170485.0
+6/19/20,Zhejiang,Moldova,13556.0
+6/19/20,Zhejiang,Monaco,99.0
+6/19/20,Zhejiang,Mongolia,204.0
+6/19/20,Zhejiang,Montenegro,355.0
+6/19/20,Zhejiang,Morocco,9613.0
+6/19/20,Zhejiang,Mozambique,668.0
+6/19/20,Zhejiang,Namibia,45.0
+6/19/20,Zhejiang,Nepal,8274.0
+6/19/20,Zhejiang,Netherlands,49426.0
+6/19/20,Zhejiang,New Zealand,1509.0
+6/19/20,Zhejiang,Nicaragua,1823.0
+6/19/20,Zhejiang,Niger,1020.0
+6/19/20,Zhejiang,Nigeria,19147.0
+6/19/20,Zhejiang,North Macedonia,4820.0
+6/19/20,Zhejiang,Norway,8726.0
+6/19/20,Zhejiang,Oman,27670.0
+6/19/20,Zhejiang,Pakistan,171666.0
+6/19/20,Zhejiang,Panama,24274.0
+6/19/20,Zhejiang,Papua New Guinea,8.0
+6/19/20,Zhejiang,Paraguay,1336.0
+6/19/20,Zhejiang,Peru,244388.0
+6/19/20,Zhejiang,Philippines,28459.0
+6/19/20,Zhejiang,Poland,31316.0
+6/19/20,Zhejiang,Portugal,38464.0
+6/19/20,Zhejiang,Qatar,85462.0
+6/19/20,Zhejiang,Romania,23400.0
+6/19/20,Zhejiang,Russia,568292.0
+6/19/20,Zhejiang,Rwanda,661.0
+6/19/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/19/20,Zhejiang,Saint Lucia,19.0
+6/19/20,Zhejiang,Saint Vincent and the Grenadines,29.0
+6/19/20,Zhejiang,San Marino,696.0
+6/19/20,Zhejiang,Sao Tome and Principe,693.0
+6/19/20,Zhejiang,Saudi Arabia,150292.0
+6/19/20,Zhejiang,Senegal,5639.0
+6/19/20,Zhejiang,Serbia,12709.0
+6/19/20,Zhejiang,Seychelles,11.0
+6/19/20,Zhejiang,Sierra Leone,1298.0
+6/19/20,Zhejiang,Singapore,41615.0
+6/19/20,Zhejiang,Slovakia,1576.0
+6/19/20,Zhejiang,Slovenia,1513.0
+6/19/20,Zhejiang,Somalia,2719.0
+6/19/20,Zhejiang,South Africa,87715.0
+6/19/20,Zhejiang,South Sudan,1864.0
+6/19/20,Zhejiang,Spain,245575.0
+6/19/20,Zhejiang,Sri Lanka,1950.0
+6/19/20,Zhejiang,Sudan,8316.0
+6/19/20,Zhejiang,Suriname,293.0
+6/19/20,Zhejiang,Sweden,56043.0
+6/19/20,Zhejiang,Switzerland,31235.0
+6/19/20,Zhejiang,Syria,187.0
+6/19/20,Zhejiang,Taiwan*,446.0
+6/19/20,Zhejiang,Tajikistan,5338.0
+6/19/20,Zhejiang,Tanzania,509.0
+6/19/20,Zhejiang,Thailand,3146.0
+6/19/20,Zhejiang,Timor-Leste,24.0
+6/19/20,Zhejiang,Togo,555.0
+6/19/20,Zhejiang,Trinidad and Tobago,123.0
+6/19/20,Zhejiang,Tunisia,1146.0
+6/19/20,Zhejiang,Turkey,185245.0
+6/19/20,Zhejiang,US,2222579.0
+6/19/20,Zhejiang,Uganda,755.0
+6/19/20,Zhejiang,Ukraine,35755.0
+6/19/20,Zhejiang,United Arab Emirates,44145.0
+6/19/20,Zhejiang,United Kingdom,301815.0
+6/19/20,Zhejiang,Uruguay,853.0
+6/19/20,Zhejiang,Uzbekistan,5946.0
+6/19/20,Zhejiang,Venezuela,3591.0
+6/19/20,Zhejiang,Vietnam,349.0
+6/19/20,Zhejiang,West Bank and Gaza,675.0
+6/19/20,Zhejiang,Western Sahara,9.0
+6/19/20,Zhejiang,Yemen,919.0
+6/19/20,Zhejiang,Zambia,1430.0
+6/19/20,Zhejiang,Zimbabwe,479.0
+6/20/20,,Afghanistan,28424.0
+6/20/20,,Albania,1891.0
+6/20/20,,Algeria,11631.0
+6/20/20,,Andorra,855.0
+6/20/20,,Angola,176.0
+6/20/20,,Antigua and Barbuda,26.0
+6/20/20,,Argentina,41204.0
+6/20/20,,Armenia,19708.0
+6/20/20,,Austria,17323.0
+6/20/20,,Azerbaijan,12238.0
+6/20/20,,Bahamas,104.0
+6/20/20,,Bahrain,21331.0
+6/20/20,,Bangladesh,108775.0
+6/20/20,,Barbados,97.0
+6/20/20,,Belarus,57936.0
+6/20/20,,Belgium,60550.0
+6/20/20,,Belize,22.0
+6/20/20,,Benin,650.0
+6/20/20,,Bhutan,68.0
+6/20/20,,Bolivia,23512.0
+6/20/20,,Bosnia and Herzegovina,3273.0
+6/20/20,,Botswana,89.0
+6/20/20,,Brazil,1032913.0
+6/20/20,,Brunei,141.0
+6/20/20,,Bulgaria,3872.0
+6/20/20,,Burkina Faso,901.0
+6/20/20,,Burma,287.0
+6/20/20,,Burundi,104.0
+6/20/20,,Cabo Verde,863.0
+6/20/20,,Cambodia,129.0
+6/20/20,,Cameroon,11610.0
+6/20/20,,Central African Republic,2686.0
+6/20/20,,Chad,858.0
+6/20/20,,Chile,236748.0
+6/20/20,,China,1269.0
+6/20/20,,Colombia,63454.0
+6/20/20,,Comoros,247.0
+6/20/20,,Congo (Brazzaville),883.0
+6/20/20,,Congo (Kinshasa),5672.0
+6/20/20,,Costa Rica,2127.0
+6/20/20,,Cote d'Ivoire,7276.0
+6/20/20,,Croatia,2299.0
+6/20/20,,Cuba,2309.0
+6/20/20,,Cyprus,985.0
+6/20/20,,Czechia,10448.0
+6/20/20,,Denmark,12391.0
+6/20/20,,Diamond Princess,712.0
+6/20/20,,Djibouti,4565.0
+6/20/20,,Dominica,18.0
+6/20/20,,Dominican Republic,25778.0
+6/20/20,,Ecuador,49731.0
+6/20/20,,Egypt,53758.0
+6/20/20,,El Salvador,4475.0
+6/20/20,,Equatorial Guinea,1664.0
+6/20/20,,Eritrea,143.0
+6/20/20,,Estonia,1981.0
+6/20/20,,Eswatini,627.0
+6/20/20,,Ethiopia,4469.0
+6/20/20,,Fiji,18.0
+6/20/20,,Finland,7142.0
+6/20/20,,France,191112.0
+6/20/20,,Gabon,4428.0
+6/20/20,,Gambia,37.0
+6/20/20,,Georgia,898.0
+6/20/20,,Germany,190670.0
+6/20/20,,Ghana,13717.0
+6/20/20,,Greece,3256.0
+6/20/20,,Grenada,23.0
+6/20/20,,Guatemala,12755.0
+6/20/20,,Guinea,4960.0
+6/20/20,,Guinea-Bissau,1541.0
+6/20/20,,Guyana,183.0
+6/20/20,,Haiti,5077.0
+6/20/20,,Holy See,12.0
+6/20/20,,Honduras,12306.0
+6/20/20,,Hungary,4086.0
+6/20/20,,Iceland,1822.0
+6/20/20,,India,410451.0
+6/20/20,,Indonesia,45029.0
+6/20/20,,Iran,202584.0
+6/20/20,,Iraq,29222.0
+6/20/20,,Ireland,25374.0
+6/20/20,,Israel,20633.0
+6/20/20,,Italy,238275.0
+6/20/20,,Jamaica,657.0
+6/20/20,,Japan,17725.0
+6/20/20,,Jordan,1015.0
+6/20/20,,Kazakhstan,17225.0
+6/20/20,,Kenya,4478.0
+6/20/20,,"Korea, South",12421.0
+6/20/20,,Kosovo,1486.0
+6/20/20,,Kuwait,39145.0
+6/20/20,,Kyrgyzstan,2981.0
+6/20/20,,Laos,19.0
+6/20/20,,Latvia,1111.0
+6/20/20,,Lebanon,1536.0
+6/20/20,,Lesotho,4.0
+6/20/20,,Liberia,601.0
+6/20/20,,Libya,544.0
+6/20/20,,Liechtenstein,82.0
+6/20/20,,Lithuania,1795.0
+6/20/20,,Luxembourg,4105.0
+6/20/20,,MS Zaandam,9.0
+6/20/20,,Madagascar,1503.0
+6/20/20,,Malawi,620.0
+6/20/20,,Malaysia,8556.0
+6/20/20,,Maldives,2187.0
+6/20/20,,Mali,1933.0
+6/20/20,,Malta,664.0
+6/20/20,,Mauritania,2813.0
+6/20/20,,Mauritius,337.0
+6/20/20,,Mexico,175202.0
+6/20/20,,Moldova,13953.0
+6/20/20,,Monaco,99.0
+6/20/20,,Mongolia,206.0
+6/20/20,,Montenegro,359.0
+6/20/20,,Morocco,9839.0
+6/20/20,,Mozambique,688.0
+6/20/20,,Namibia,46.0
+6/20/20,,Nepal,8605.0
+6/20/20,,Netherlands,49502.0
+6/20/20,,New Zealand,1511.0
+6/20/20,,Nicaragua,1823.0
+6/20/20,,Niger,1035.0
+6/20/20,,Nigeria,19808.0
+6/20/20,,North Macedonia,5005.0
+6/20/20,,Norway,8742.0
+6/20/20,,Oman,28566.0
+6/20/20,,Pakistan,176617.0
+6/20/20,,Panama,25222.0
+6/20/20,,Papua New Guinea,8.0
+6/20/20,,Paraguay,1362.0
+6/20/20,,Peru,251338.0
+6/20/20,,Philippines,29400.0
+6/20/20,,Poland,31620.0
+6/20/20,,Portugal,38841.0
+6/20/20,,Qatar,86488.0
+6/20/20,,Romania,23730.0
+6/20/20,,Russia,576162.0
+6/20/20,,Rwanda,702.0
+6/20/20,,Saint Kitts and Nevis,15.0
+6/20/20,,Saint Lucia,19.0
+6/20/20,,Saint Vincent and the Grenadines,29.0
+6/20/20,,San Marino,696.0
+6/20/20,,Sao Tome and Principe,698.0
+6/20/20,,Saudi Arabia,154233.0
+6/20/20,,Senegal,5783.0
+6/20/20,,Serbia,12803.0
+6/20/20,,Seychelles,11.0
+6/20/20,,Sierra Leone,1309.0
+6/20/20,,Singapore,41833.0
+6/20/20,,Slovakia,1586.0
+6/20/20,,Slovenia,1519.0
+6/20/20,,Somalia,2755.0
+6/20/20,,South Africa,92681.0
+6/20/20,,South Sudan,1882.0
+6/20/20,,Spain,245938.0
+6/20/20,,Sri Lanka,1950.0
+6/20/20,,Sudan,8580.0
+6/20/20,,Suriname,303.0
+6/20/20,,Sweden,56043.0
+6/20/20,,Switzerland,31243.0
+6/20/20,,Syria,198.0
+6/20/20,,Taiwan*,446.0
+6/20/20,,Tajikistan,5399.0
+6/20/20,,Tanzania,509.0
+6/20/20,,Thailand,3147.0
+6/20/20,,Timor-Leste,24.0
+6/20/20,,Togo,561.0
+6/20/20,,Trinidad and Tobago,123.0
+6/20/20,,Tunisia,1156.0
+6/20/20,,Turkey,186493.0
+6/20/20,,US,2255119.0
+6/20/20,,Uganda,763.0
+6/20/20,,Ukraine,36615.0
+6/20/20,,United Arab Emirates,44533.0
+6/20/20,,United Kingdom,303110.0
+6/20/20,,Uruguay,859.0
+6/20/20,,Uzbekistan,6153.0
+6/20/20,,Venezuela,3789.0
+6/20/20,,Vietnam,349.0
+6/20/20,,West Bank and Gaza,784.0
+6/20/20,,Western Sahara,9.0
+6/20/20,,Yemen,922.0
+6/20/20,,Zambia,1430.0
+6/20/20,,Zimbabwe,479.0
+6/20/20,Alberta,Canada,7673.0
+6/20/20,Anguilla,United Kingdom,3.0
+6/20/20,Anhui,China,991.0
+6/20/20,Aruba,Netherlands,101.0
+6/20/20,Australian Capital Territory,Australia,108.0
+6/20/20,Beijing,China,821.0
+6/20/20,Bermuda,United Kingdom,146.0
+6/20/20,"Bonaire, Sint Eustatius and Saba",Netherlands,7.0
+6/20/20,British Columbia,Canada,2790.0
+6/20/20,British Virgin Islands,United Kingdom,8.0
+6/20/20,Cayman Islands,United Kingdom,195.0
+6/20/20,Channel Islands,United Kingdom,570.0
+6/20/20,Chongqing,China,582.0
+6/20/20,Curacao,Netherlands,23.0
+6/20/20,Diamond Princess,Canada,0.0
+6/20/20,Falkland Islands (Malvinas),United Kingdom,13.0
+6/20/20,Faroe Islands,Denmark,187.0
+6/20/20,French Guiana,France,2163.0
+6/20/20,French Polynesia,France,60.0
+6/20/20,Fujian,China,363.0
+6/20/20,Gansu,China,151.0
+6/20/20,Gibraltar,United Kingdom,176.0
+6/20/20,Grand Princess,Canada,13.0
+6/20/20,Greenland,Denmark,13.0
+6/20/20,Guadeloupe,France,174.0
+6/20/20,Guangdong,China,1634.0
+6/20/20,Guangxi,China,254.0
+6/20/20,Guizhou,China,147.0
+6/20/20,Hainan,China,171.0
+6/20/20,Hebei,China,344.0
+6/20/20,Heilongjiang,China,947.0
+6/20/20,Henan,China,1276.0
+6/20/20,Hong Kong,China,1128.0
+6/20/20,Hubei,China,68135.0
+6/20/20,Hunan,China,1019.0
+6/20/20,Inner Mongolia,China,238.0
+6/20/20,Isle of Man,United Kingdom,336.0
+6/20/20,Jiangsu,China,653.0
+6/20/20,Jiangxi,China,932.0
+6/20/20,Jilin,China,155.0
+6/20/20,Liaoning,China,153.0
+6/20/20,Macau,China,45.0
+6/20/20,Manitoba,Canada,313.0
+6/20/20,Martinique,France,236.0
+6/20/20,Mayotte,France,2404.0
+6/20/20,Montserrat,United Kingdom,11.0
+6/20/20,New Brunswick,Canada,164.0
+6/20/20,New Caledonia,France,21.0
+6/20/20,New South Wales,Australia,3149.0
+6/20/20,Newfoundland and Labrador,Canada,261.0
+6/20/20,Ningxia,China,75.0
+6/20/20,Northern Territory,Australia,29.0
+6/20/20,Northwest Territories,Canada,5.0
+6/20/20,Nova Scotia,Canada,1061.0
+6/20/20,Ontario,Canada,35044.0
+6/20/20,Prince Edward Island,Canada,27.0
+6/20/20,Qinghai,China,18.0
+6/20/20,Quebec,Canada,54674.0
+6/20/20,Queensland,Australia,1066.0
+6/20/20,Reunion,France,505.0
+6/20/20,Saint Barthelemy,France,6.0
+6/20/20,Saint Pierre and Miquelon,France,1.0
+6/20/20,Saskatchewan,Canada,726.0
+6/20/20,Shaanxi,China,316.0
+6/20/20,Shandong,China,792.0
+6/20/20,Shanghai,China,698.0
+6/20/20,Shanxi,China,198.0
+6/20/20,Sichuan,China,589.0
+6/20/20,Sint Maarten,Netherlands,77.0
+6/20/20,South Australia,Australia,440.0
+6/20/20,St Martin,France,42.0
+6/20/20,Tasmania,Australia,228.0
+6/20/20,Tianjin,China,197.0
+6/20/20,Tibet,China,1.0
+6/20/20,Turks and Caicos Islands,United Kingdom,12.0
+6/20/20,Victoria,Australia,1836.0
+6/20/20,Western Australia,Australia,605.0
+6/20/20,Xinjiang,China,76.0
+6/20/20,Yukon,Canada,11.0
+6/20/20,Yunnan,China,185.0
+6/20/20,Zhejiang,Afghanistan,28424.0
+6/20/20,Zhejiang,Albania,1891.0
+6/20/20,Zhejiang,Algeria,11631.0
+6/20/20,Zhejiang,Andorra,855.0
+6/20/20,Zhejiang,Angola,176.0
+6/20/20,Zhejiang,Antigua and Barbuda,26.0
+6/20/20,Zhejiang,Argentina,41204.0
+6/20/20,Zhejiang,Armenia,19708.0
+6/20/20,Zhejiang,Austria,17323.0
+6/20/20,Zhejiang,Azerbaijan,12238.0
+6/20/20,Zhejiang,Bahamas,104.0
+6/20/20,Zhejiang,Bahrain,21331.0
+6/20/20,Zhejiang,Bangladesh,108775.0
+6/20/20,Zhejiang,Barbados,97.0
+6/20/20,Zhejiang,Belarus,57936.0
+6/20/20,Zhejiang,Belgium,60550.0
+6/20/20,Zhejiang,Belize,22.0
+6/20/20,Zhejiang,Benin,650.0
+6/20/20,Zhejiang,Bhutan,68.0
+6/20/20,Zhejiang,Bolivia,23512.0
+6/20/20,Zhejiang,Bosnia and Herzegovina,3273.0
+6/20/20,Zhejiang,Botswana,89.0
+6/20/20,Zhejiang,Brazil,1032913.0
+6/20/20,Zhejiang,Brunei,141.0
+6/20/20,Zhejiang,Bulgaria,3872.0
+6/20/20,Zhejiang,Burkina Faso,901.0
+6/20/20,Zhejiang,Burma,287.0
+6/20/20,Zhejiang,Burundi,104.0
+6/20/20,Zhejiang,Cabo Verde,863.0
+6/20/20,Zhejiang,Cambodia,129.0
+6/20/20,Zhejiang,Cameroon,11610.0
+6/20/20,Zhejiang,Central African Republic,2686.0
+6/20/20,Zhejiang,Chad,858.0
+6/20/20,Zhejiang,Chile,236748.0
+6/20/20,Zhejiang,China,1269.0
+6/20/20,Zhejiang,Colombia,63454.0
+6/20/20,Zhejiang,Comoros,247.0
+6/20/20,Zhejiang,Congo (Brazzaville),883.0
+6/20/20,Zhejiang,Congo (Kinshasa),5672.0
+6/20/20,Zhejiang,Costa Rica,2127.0
+6/20/20,Zhejiang,Cote d'Ivoire,7276.0
+6/20/20,Zhejiang,Croatia,2299.0
+6/20/20,Zhejiang,Cuba,2309.0
+6/20/20,Zhejiang,Cyprus,985.0
+6/20/20,Zhejiang,Czechia,10448.0
+6/20/20,Zhejiang,Denmark,12391.0
+6/20/20,Zhejiang,Diamond Princess,712.0
+6/20/20,Zhejiang,Djibouti,4565.0
+6/20/20,Zhejiang,Dominica,18.0
+6/20/20,Zhejiang,Dominican Republic,25778.0
+6/20/20,Zhejiang,Ecuador,49731.0
+6/20/20,Zhejiang,Egypt,53758.0
+6/20/20,Zhejiang,El Salvador,4475.0
+6/20/20,Zhejiang,Equatorial Guinea,1664.0
+6/20/20,Zhejiang,Eritrea,143.0
+6/20/20,Zhejiang,Estonia,1981.0
+6/20/20,Zhejiang,Eswatini,627.0
+6/20/20,Zhejiang,Ethiopia,4469.0
+6/20/20,Zhejiang,Fiji,18.0
+6/20/20,Zhejiang,Finland,7142.0
+6/20/20,Zhejiang,France,191112.0
+6/20/20,Zhejiang,Gabon,4428.0
+6/20/20,Zhejiang,Gambia,37.0
+6/20/20,Zhejiang,Georgia,898.0
+6/20/20,Zhejiang,Germany,190670.0
+6/20/20,Zhejiang,Ghana,13717.0
+6/20/20,Zhejiang,Greece,3256.0
+6/20/20,Zhejiang,Grenada,23.0
+6/20/20,Zhejiang,Guatemala,12755.0
+6/20/20,Zhejiang,Guinea,4960.0
+6/20/20,Zhejiang,Guinea-Bissau,1541.0
+6/20/20,Zhejiang,Guyana,183.0
+6/20/20,Zhejiang,Haiti,5077.0
+6/20/20,Zhejiang,Holy See,12.0
+6/20/20,Zhejiang,Honduras,12306.0
+6/20/20,Zhejiang,Hungary,4086.0
+6/20/20,Zhejiang,Iceland,1822.0
+6/20/20,Zhejiang,India,410451.0
+6/20/20,Zhejiang,Indonesia,45029.0
+6/20/20,Zhejiang,Iran,202584.0
+6/20/20,Zhejiang,Iraq,29222.0
+6/20/20,Zhejiang,Ireland,25374.0
+6/20/20,Zhejiang,Israel,20633.0
+6/20/20,Zhejiang,Italy,238275.0
+6/20/20,Zhejiang,Jamaica,657.0
+6/20/20,Zhejiang,Japan,17725.0
+6/20/20,Zhejiang,Jordan,1015.0
+6/20/20,Zhejiang,Kazakhstan,17225.0
+6/20/20,Zhejiang,Kenya,4478.0
+6/20/20,Zhejiang,"Korea, South",12421.0
+6/20/20,Zhejiang,Kosovo,1486.0
+6/20/20,Zhejiang,Kuwait,39145.0
+6/20/20,Zhejiang,Kyrgyzstan,2981.0
+6/20/20,Zhejiang,Laos,19.0
+6/20/20,Zhejiang,Latvia,1111.0
+6/20/20,Zhejiang,Lebanon,1536.0
+6/20/20,Zhejiang,Lesotho,4.0
+6/20/20,Zhejiang,Liberia,601.0
+6/20/20,Zhejiang,Libya,544.0
+6/20/20,Zhejiang,Liechtenstein,82.0
+6/20/20,Zhejiang,Lithuania,1795.0
+6/20/20,Zhejiang,Luxembourg,4105.0
+6/20/20,Zhejiang,MS Zaandam,9.0
+6/20/20,Zhejiang,Madagascar,1503.0
+6/20/20,Zhejiang,Malawi,620.0
+6/20/20,Zhejiang,Malaysia,8556.0
+6/20/20,Zhejiang,Maldives,2187.0
+6/20/20,Zhejiang,Mali,1933.0
+6/20/20,Zhejiang,Malta,664.0
+6/20/20,Zhejiang,Mauritania,2813.0
+6/20/20,Zhejiang,Mauritius,337.0
+6/20/20,Zhejiang,Mexico,175202.0
+6/20/20,Zhejiang,Moldova,13953.0
+6/20/20,Zhejiang,Monaco,99.0
+6/20/20,Zhejiang,Mongolia,206.0
+6/20/20,Zhejiang,Montenegro,359.0
+6/20/20,Zhejiang,Morocco,9839.0
+6/20/20,Zhejiang,Mozambique,688.0
+6/20/20,Zhejiang,Namibia,46.0
+6/20/20,Zhejiang,Nepal,8605.0
+6/20/20,Zhejiang,Netherlands,49502.0
+6/20/20,Zhejiang,New Zealand,1511.0
+6/20/20,Zhejiang,Nicaragua,1823.0
+6/20/20,Zhejiang,Niger,1035.0
+6/20/20,Zhejiang,Nigeria,19808.0
+6/20/20,Zhejiang,North Macedonia,5005.0
+6/20/20,Zhejiang,Norway,8742.0
+6/20/20,Zhejiang,Oman,28566.0
+6/20/20,Zhejiang,Pakistan,176617.0
+6/20/20,Zhejiang,Panama,25222.0
+6/20/20,Zhejiang,Papua New Guinea,8.0
+6/20/20,Zhejiang,Paraguay,1362.0
+6/20/20,Zhejiang,Peru,251338.0
+6/20/20,Zhejiang,Philippines,29400.0
+6/20/20,Zhejiang,Poland,31620.0
+6/20/20,Zhejiang,Portugal,38841.0
+6/20/20,Zhejiang,Qatar,86488.0
+6/20/20,Zhejiang,Romania,23730.0
+6/20/20,Zhejiang,Russia,576162.0
+6/20/20,Zhejiang,Rwanda,702.0
+6/20/20,Zhejiang,Saint Kitts and Nevis,15.0
+6/20/20,Zhejiang,Saint Lucia,19.0
+6/20/20,Zhejiang,Saint Vincent and the Grenadines,29.0
+6/20/20,Zhejiang,San Marino,696.0
+6/20/20,Zhejiang,Sao Tome and Principe,698.0
+6/20/20,Zhejiang,Saudi Arabia,154233.0
+6/20/20,Zhejiang,Senegal,5783.0
+6/20/20,Zhejiang,Serbia,12803.0
+6/20/20,Zhejiang,Seychelles,11.0
+6/20/20,Zhejiang,Sierra Leone,1309.0
+6/20/20,Zhejiang,Singapore,41833.0
+6/20/20,Zhejiang,Slovakia,1586.0
+6/20/20,Zhejiang,Slovenia,1519.0
+6/20/20,Zhejiang,Somalia,2755.0
+6/20/20,Zhejiang,South Africa,92681.0
+6/20/20,Zhejiang,South Sudan,1882.0
+6/20/20,Zhejiang,Spain,245938.0
+6/20/20,Zhejiang,Sri Lanka,1950.0
+6/20/20,Zhejiang,Sudan,8580.0
+6/20/20,Zhejiang,Suriname,303.0
+6/20/20,Zhejiang,Sweden,56043.0
+6/20/20,Zhejiang,Switzerland,31243.0
+6/20/20,Zhejiang,Syria,198.0
+6/20/20,Zhejiang,Taiwan*,446.0
+6/20/20,Zhejiang,Tajikistan,5399.0
+6/20/20,Zhejiang,Tanzania,509.0
+6/20/20,Zhejiang,Thailand,3147.0
+6/20/20,Zhejiang,Timor-Leste,24.0
+6/20/20,Zhejiang,Togo,561.0
+6/20/20,Zhejiang,Trinidad and Tobago,123.0
+6/20/20,Zhejiang,Tunisia,1156.0
+6/20/20,Zhejiang,Turkey,186493.0
+6/20/20,Zhejiang,US,2255119.0
+6/20/20,Zhejiang,Uganda,763.0
+6/20/20,Zhejiang,Ukraine,36615.0
+6/20/20,Zhejiang,United Arab Emirates,44533.0
+6/20/20,Zhejiang,United Kingdom,303110.0
+6/20/20,Zhejiang,Uruguay,859.0
+6/20/20,Zhejiang,Uzbekistan,6153.0
+6/20/20,Zhejiang,Venezuela,3789.0
+6/20/20,Zhejiang,Vietnam,349.0
+6/20/20,Zhejiang,West Bank and Gaza,784.0
+6/20/20,Zhejiang,Western Sahara,9.0
+6/20/20,Zhejiang,Yemen,922.0
+6/20/20,Zhejiang,Zambia,1430.0
+6/20/20,Zhejiang,Zimbabwe,479.0

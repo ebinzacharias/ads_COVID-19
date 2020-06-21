@@ -1,11 +1,11 @@
 
 import numpy as np
 from sklearn import linear_model
-reg = linear_model.LinearRegression(fit_intercept=True)
 import pandas as pd
 
 from scipy import signal
 
+reg = linear_model.LinearRegression(fit_intercept=True)
 
 def get_doubling_time_via_regression(in_array):
     ''' Use a linear regression to approximate the doubling rate
@@ -29,52 +29,31 @@ def get_doubling_time_via_regression(in_array):
 
     return intercept/slope
 
+from scipy import signal
+
 def savgol_filter(df_input,column='confirmed',window=5):
-    ''' Savgol Filter which can be used in groupby apply function (data structure kept)
-
-        parameters:
-        ----------
-        df_input : pandas.series
-        column : str
-        window : int
-            used data points to calculate the filter result
-
-        Returns:
-        ----------
-        df_result: pd.DataFrame
-            the index of the df_input has to be preserved in result
-    '''
-
+    ''' Savgol Filter which can be used in groupby apply function 
+        it ensures that the data structure is kept'''
+    window=5, 
     degree=1
     df_result=df_input
-
+    
     filter_in=df_input[column].fillna(0) # attention with the neutral element here
-
+    
     result=signal.savgol_filter(np.array(filter_in),
-                           window, # window size used for filtering
+                           5, # window size used for filtering
                            1)
-    df_result[str(column+'_filtered')]=result
+    df_result[column+'_filtered']=result
     return df_result
+        
 
 def rolling_reg(df_input,col='confirmed'):
-    ''' Rolling Regression to approximate the doubling time'
-
-        Parameters:
-        ----------
-        df_input: pd.DataFrame
-        col: str
-            defines the used column
-        Returns:
-        ----------
-        result: pd.DataFrame
-    '''
+    ''' input has to be a data frame'''
+    ''' return is single series (mandatory for group by apply)'''
     days_back=3
     result=df_input[col].rolling(
                 window=days_back,
                 min_periods=days_back).apply(get_doubling_time_via_regression,raw=False)
-
-
-
     return result
 
 
@@ -105,9 +84,10 @@ def calc_filtered_data(df_input,filter_on='confirmed'):
     #print(pd_filtered_result[pd_filtered_result['country']=='Germany'].tail())
 
     #df_output=pd.merge(df_output,pd_filtered_result[['index',str(filter_on+'_filtered')]],on=['index'],how='left')
+
     df_output=pd.merge(df_output,pd_filtered_result[[str(filter_on+'_filtered')]],left_index=True,right_index=True,how='left')
     #print(df_output[df_output['country']=='Germany'].tail())
-    return df_output.copy()
+    return df_output
 
 
 
@@ -159,6 +139,13 @@ if __name__ == '__main__':
     pd_result_larg=calc_doubling_rate(pd_result_larg)
     pd_result_larg=calc_doubling_rate(pd_result_larg,'confirmed_filtered')
 
+    mask=pd_result_larg['confirmed']>100
+    pd_result_larg['confirmed_filtered_DR']=pd_result_larg['confirmed_filtered_DR'].where(mask, other=np.NaN) 
 
+    print(pd_result_larg.head())
+
+    pd_result_larg.to_csv('../data/processed/COVID_final_set.csv',sep=',',index=False)
+
+    
 
    
