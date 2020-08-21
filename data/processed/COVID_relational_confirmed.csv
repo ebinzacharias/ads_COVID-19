@@ -55859,3 +55859,535 @@ date,state,country,confirmed
 2020-08-18,no,Yemen,1889.0
 2020-08-18,no,Zambia,9981.0
 2020-08-18,no,Zimbabwe,5378.0
+2020-08-19,Alberta,Canada,12501.0
+2020-08-19,Anguilla,United Kingdom,3.0
+2020-08-19,Anhui,China,991.0
+2020-08-19,Aruba,Netherlands,1296.0
+2020-08-19,Australian Capital Territory,Australia,113.0
+2020-08-19,Beijing,China,935.0
+2020-08-19,Bermuda,United Kingdom,166.0
+2020-08-19,"Bonaire, Sint Eustatius and Saba",Netherlands,13.0
+2020-08-19,British Columbia,Canada,4745.0
+2020-08-19,British Virgin Islands,United Kingdom,11.0
+2020-08-19,Cayman Islands,United Kingdom,205.0
+2020-08-19,Channel Islands,United Kingdom,613.0
+2020-08-19,Chongqing,China,583.0
+2020-08-19,Curacao,Netherlands,36.0
+2020-08-19,Diamond Princess,Canada,0.0
+2020-08-19,Falkland Islands (Malvinas),United Kingdom,13.0
+2020-08-19,Faroe Islands,Denmark,382.0
+2020-08-19,French Guiana,France,8711.0
+2020-08-19,French Polynesia,France,211.0
+2020-08-19,Fujian,China,370.0
+2020-08-19,Gansu,China,169.0
+2020-08-19,Gibraltar,United Kingdom,223.0
+2020-08-19,Grand Princess,Canada,13.0
+2020-08-19,Greenland,Denmark,14.0
+2020-08-19,Guadeloupe,France,510.0
+2020-08-19,Guangdong,China,1725.0
+2020-08-19,Guangxi,China,255.0
+2020-08-19,Guizhou,China,147.0
+2020-08-19,Hainan,China,171.0
+2020-08-19,Hebei,China,351.0
+2020-08-19,Heilongjiang,China,948.0
+2020-08-19,Henan,China,1276.0
+2020-08-19,Hong Kong,China,4586.0
+2020-08-19,Hubei,China,68139.0
+2020-08-19,Hunan,China,1019.0
+2020-08-19,Inner Mongolia,China,260.0
+2020-08-19,Isle of Man,United Kingdom,336.0
+2020-08-19,Jiangsu,China,664.0
+2020-08-19,Jiangxi,China,935.0
+2020-08-19,Jilin,China,157.0
+2020-08-19,Liaoning,China,261.0
+2020-08-19,Macau,China,46.0
+2020-08-19,Manitoba,Canada,763.0
+2020-08-19,Martinique,France,336.0
+2020-08-19,Mayotte,France,3160.0
+2020-08-19,Montserrat,United Kingdom,13.0
+2020-08-19,New Brunswick,Canada,186.0
+2020-08-19,New Caledonia,France,23.0
+2020-08-19,New South Wales,Australia,3971.0
+2020-08-19,Newfoundland and Labrador,Canada,268.0
+2020-08-19,Ningxia,China,75.0
+2020-08-19,Northern Territory,Australia,33.0
+2020-08-19,Northwest Territories,Canada,5.0
+2020-08-19,Nova Scotia,Canada,1076.0
+2020-08-19,Ontario,Canada,42890.0
+2020-08-19,Prince Edward Island,Canada,44.0
+2020-08-19,Qinghai,China,18.0
+2020-08-19,Quebec,Canada,61316.0
+2020-08-19,Queensland,Australia,1093.0
+2020-08-19,Reunion,France,903.0
+2020-08-19,Saint Barthelemy,France,16.0
+2020-08-19,Saint Pierre and Miquelon,France,5.0
+2020-08-19,Saskatchewan,Canada,1586.0
+2020-08-19,Shaanxi,China,358.0
+2020-08-19,Shandong,China,824.0
+2020-08-19,Shanghai,China,851.0
+2020-08-19,Shanxi,China,201.0
+2020-08-19,Sichuan,China,627.0
+2020-08-19,Sint Maarten,Netherlands,348.0
+2020-08-19,South Australia,Australia,462.0
+2020-08-19,St Martin,France,121.0
+2020-08-19,Tasmania,Australia,230.0
+2020-08-19,Tianjin,China,210.0
+2020-08-19,Tibet,China,1.0
+2020-08-19,Turks and Caicos Islands,United Kingdom,327.0
+2020-08-19,Victoria,Australia,17683.0
+2020-08-19,Western Australia,Australia,651.0
+2020-08-19,Xinjiang,China,902.0
+2020-08-19,Yukon,Canada,15.0
+2020-08-19,Yunnan,China,195.0
+2020-08-19,Zhejiang,China,1277.0
+2020-08-19,no,Afghanistan,37599.0
+2020-08-19,no,Albania,7812.0
+2020-08-19,no,Algeria,39847.0
+2020-08-19,no,Andorra,1024.0
+2020-08-19,no,Angola,2015.0
+2020-08-19,no,Antigua and Barbuda,94.0
+2020-08-19,no,Argentina,312659.0
+2020-08-19,no,Armenia,42056.0
+2020-08-19,no,Austria,24084.0
+2020-08-19,no,Azerbaijan,34620.0
+2020-08-19,no,Bahamas,1531.0
+2020-08-19,no,Bahrain,47950.0
+2020-08-19,no,Bangladesh,285091.0
+2020-08-19,no,Barbados,155.0
+2020-08-19,no,Belarus,69801.0
+2020-08-19,no,Belgium,79479.0
+2020-08-19,no,Belize,553.0
+2020-08-19,no,Benin,2095.0
+2020-08-19,no,Bhutan,147.0
+2020-08-19,no,Bolivia,105050.0
+2020-08-19,no,Bosnia and Herzegovina,16691.0
+2020-08-19,no,Botswana,1308.0
+2020-08-19,no,Brazil,3456652.0
+2020-08-19,no,Brunei,143.0
+2020-08-19,no,Bulgaria,14820.0
+2020-08-19,no,Burkina Faso,1285.0
+2020-08-19,no,Burma,394.0
+2020-08-19,no,Burundi,422.0
+2020-08-19,no,Cabo Verde,3321.0
+2020-08-19,no,Cambodia,273.0
+2020-08-19,no,Cameroon,18624.0
+2020-08-19,no,Central African Republic,4679.0
+2020-08-19,no,Chad,971.0
+2020-08-19,no,Chile,390037.0
+2020-08-19,no,Colombia,502178.0
+2020-08-19,no,Comoros,406.0
+2020-08-19,no,Congo (Brazzaville),3850.0
+2020-08-19,no,Congo (Kinshasa),9741.0
+2020-08-19,no,Costa Rica,30409.0
+2020-08-19,no,Cote d'Ivoire,17232.0
+2020-08-19,no,Croatia,7074.0
+2020-08-19,no,Cuba,3482.0
+2020-08-19,no,Cyprus,1385.0
+2020-08-19,no,Czechia,20798.0
+2020-08-19,no,Denmark,15940.0
+2020-08-19,no,Diamond Princess,712.0
+2020-08-19,no,Djibouti,5374.0
+2020-08-19,no,Dominica,18.0
+2020-08-19,no,Dominican Republic,88127.0
+2020-08-19,no,Ecuador,104475.0
+2020-08-19,no,Egypt,96914.0
+2020-08-19,no,El Salvador,23717.0
+2020-08-19,no,Equatorial Guinea,4892.0
+2020-08-19,no,Eritrea,304.0
+2020-08-19,no,Estonia,2207.0
+2020-08-19,no,Eswatini,4058.0
+2020-08-19,no,Ethiopia,34058.0
+2020-08-19,no,Fiji,28.0
+2020-08-19,no,Finland,7805.0
+2020-08-19,no,France,242538.0
+2020-08-19,no,Gabon,8319.0
+2020-08-19,no,Gambia,2288.0
+2020-08-19,no,Georgia,1361.0
+2020-08-19,no,Germany,229706.0
+2020-08-19,no,Ghana,43094.0
+2020-08-19,no,Greece,7684.0
+2020-08-19,no,Grenada,24.0
+2020-08-19,no,Guatemala,64881.0
+2020-08-19,no,Guinea,8792.0
+2020-08-19,no,Guinea-Bissau,2117.0
+2020-08-19,no,Guyana,776.0
+2020-08-19,no,Haiti,7949.0
+2020-08-19,no,Holy See,12.0
+2020-08-19,no,Honduras,52298.0
+2020-08-19,no,Hungary,5002.0
+2020-08-19,no,Iceland,2035.0
+2020-08-19,no,India,2836925.0
+2020-08-19,no,Indonesia,144945.0
+2020-08-19,no,Iran,350279.0
+2020-08-19,no,Iraq,188802.0
+2020-08-19,no,Ireland,27547.0
+2020-08-19,no,Israel,97969.0
+2020-08-19,no,Italy,255278.0
+2020-08-19,no,Jamaica,1192.0
+2020-08-19,no,Japan,58728.0
+2020-08-19,no,Jordan,1482.0
+2020-08-19,no,Kazakhstan,103815.0
+2020-08-19,no,Kenya,31015.0
+2020-08-19,no,"Korea, South",16346.0
+2020-08-19,no,Kosovo,11545.0
+2020-08-19,no,Kuwait,78145.0
+2020-08-19,no,Kyrgyzstan,42325.0
+2020-08-19,no,Laos,22.0
+2020-08-19,no,Latvia,1326.0
+2020-08-19,no,Lebanon,10347.0
+2020-08-19,no,Lesotho,946.0
+2020-08-19,no,Liberia,1282.0
+2020-08-19,no,Libya,9463.0
+2020-08-19,no,Liechtenstein,98.0
+2020-08-19,no,Lithuania,2496.0
+2020-08-19,no,Luxembourg,7566.0
+2020-08-19,no,MS Zaandam,9.0
+2020-08-19,no,Madagascar,14074.0
+2020-08-19,no,Malawi,5240.0
+2020-08-19,no,Malaysia,9235.0
+2020-08-19,no,Maldives,6225.0
+2020-08-19,no,Mali,2667.0
+2020-08-19,no,Malta,1470.0
+2020-08-19,no,Mauritania,6829.0
+2020-08-19,no,Mauritius,346.0
+2020-08-19,no,Mexico,537031.0
+2020-08-19,no,Moldova,31415.0
+2020-08-19,no,Monaco,148.0
+2020-08-19,no,Mongolia,298.0
+2020-08-19,no,Montenegro,4174.0
+2020-08-19,no,Morocco,46313.0
+2020-08-19,no,Mozambique,3045.0
+2020-08-19,no,Namibia,4665.0
+2020-08-19,no,Nepal,28938.0
+2020-08-19,no,Netherlands,64525.0
+2020-08-19,no,New Zealand,1654.0
+2020-08-19,no,Nicaragua,4311.0
+2020-08-19,no,Niger,1167.0
+2020-08-19,no,Nigeria,50488.0
+2020-08-19,no,North Macedonia,13076.0
+2020-08-19,no,Norway,10162.0
+2020-08-19,no,Oman,83606.0
+2020-08-19,no,Pakistan,290445.0
+2020-08-19,no,Panama,83754.0
+2020-08-19,no,Papua New Guinea,347.0
+2020-08-19,no,Paraguay,11133.0
+2020-08-19,no,Peru,549321.0
+2020-08-19,no,Philippines,173774.0
+2020-08-19,no,Poland,58611.0
+2020-08-19,no,Portugal,54701.0
+2020-08-19,no,Qatar,115956.0
+2020-08-19,no,Romania,73617.0
+2020-08-19,no,Russia,935066.0
+2020-08-19,no,Rwanda,2644.0
+2020-08-19,no,Saint Kitts and Nevis,17.0
+2020-08-19,no,Saint Lucia,26.0
+2020-08-19,no,Saint Vincent and the Grenadines,58.0
+2020-08-19,no,San Marino,704.0
+2020-08-19,no,Sao Tome and Principe,885.0
+2020-08-19,no,Saudi Arabia,302686.0
+2020-08-19,no,Senegal,12446.0
+2020-08-19,no,Serbia,30048.0
+2020-08-19,no,Seychelles,132.0
+2020-08-19,no,Sierra Leone,1961.0
+2020-08-19,no,Singapore,56031.0
+2020-08-19,no,Slovakia,3022.0
+2020-08-19,no,Slovenia,2493.0
+2020-08-19,no,Somalia,3265.0
+2020-08-19,no,South Africa,596060.0
+2020-08-19,no,South Sudan,2494.0
+2020-08-19,no,Spain,370867.0
+2020-08-19,no,Sri Lanka,2902.0
+2020-08-19,no,Sudan,12546.0
+2020-08-19,no,Suriname,3295.0
+2020-08-19,no,Sweden,85411.0
+2020-08-19,no,Switzerland,38760.0
+2020-08-19,no,Syria,1927.0
+2020-08-19,no,Taiwan*,486.0
+2020-08-19,no,Tajikistan,8166.0
+2020-08-19,no,Tanzania,509.0
+2020-08-19,no,Thailand,3382.0
+2020-08-19,no,Timor-Leste,25.0
+2020-08-19,no,Togo,1190.0
+2020-08-19,no,Trinidad and Tobago,686.0
+2020-08-19,no,Tunisia,2427.0
+2020-08-19,no,Turkey,253108.0
+2020-08-19,no,US,5529824.0
+2020-08-19,no,Uganda,1656.0
+2020-08-19,no,Ukraine,98658.0
+2020-08-19,no,United Arab Emirates,65341.0
+2020-08-19,no,United Kingdom,321098.0
+2020-08-19,no,Uruguay,1493.0
+2020-08-19,no,Uzbekistan,37112.0
+2020-08-19,no,Venezuela,36868.0
+2020-08-19,no,Vietnam,994.0
+2020-08-19,no,West Bank and Gaza,17606.0
+2020-08-19,no,Western Sahara,10.0
+2020-08-19,no,Yemen,1892.0
+2020-08-19,no,Zambia,10218.0
+2020-08-19,no,Zimbabwe,5643.0
+2020-08-20,Alberta,Canada,12501.0
+2020-08-20,Anguilla,United Kingdom,3.0
+2020-08-20,Anhui,China,991.0
+2020-08-20,Aruba,Netherlands,1387.0
+2020-08-20,Australian Capital Territory,Australia,113.0
+2020-08-20,Beijing,China,935.0
+2020-08-20,Bermuda,United Kingdom,166.0
+2020-08-20,"Bonaire, Sint Eustatius and Saba",Netherlands,13.0
+2020-08-20,British Columbia,Canada,4745.0
+2020-08-20,British Virgin Islands,United Kingdom,11.0
+2020-08-20,Cayman Islands,United Kingdom,205.0
+2020-08-20,Channel Islands,United Kingdom,613.0
+2020-08-20,Chongqing,China,583.0
+2020-08-20,Curacao,Netherlands,36.0
+2020-08-20,Diamond Princess,Canada,0.0
+2020-08-20,Falkland Islands (Malvinas),United Kingdom,13.0
+2020-08-20,Faroe Islands,Denmark,383.0
+2020-08-20,French Guiana,France,8743.0
+2020-08-20,French Polynesia,France,211.0
+2020-08-20,Fujian,China,370.0
+2020-08-20,Gansu,China,169.0
+2020-08-20,Gibraltar,United Kingdom,229.0
+2020-08-20,Grand Princess,Canada,13.0
+2020-08-20,Greenland,Denmark,14.0
+2020-08-20,Guadeloupe,France,510.0
+2020-08-20,Guangdong,China,1725.0
+2020-08-20,Guangxi,China,255.0
+2020-08-20,Guizhou,China,147.0
+2020-08-20,Hainan,China,171.0
+2020-08-20,Hebei,China,351.0
+2020-08-20,Heilongjiang,China,948.0
+2020-08-20,Henan,China,1276.0
+2020-08-20,Hong Kong,China,4604.0
+2020-08-20,Hubei,China,68139.0
+2020-08-20,Hunan,China,1019.0
+2020-08-20,Inner Mongolia,China,260.0
+2020-08-20,Isle of Man,United Kingdom,336.0
+2020-08-20,Jiangsu,China,665.0
+2020-08-20,Jiangxi,China,935.0
+2020-08-20,Jilin,China,157.0
+2020-08-20,Liaoning,China,261.0
+2020-08-20,Macau,China,46.0
+2020-08-20,Manitoba,Canada,796.0
+2020-08-20,Martinique,France,336.0
+2020-08-20,Mayotte,France,3160.0
+2020-08-20,Montserrat,United Kingdom,13.0
+2020-08-20,New Brunswick,Canada,186.0
+2020-08-20,New Caledonia,France,23.0
+2020-08-20,New South Wales,Australia,3972.0
+2020-08-20,Newfoundland and Labrador,Canada,268.0
+2020-08-20,Ningxia,China,75.0
+2020-08-20,Northern Territory,Australia,33.0
+2020-08-20,Northwest Territories,Canada,5.0
+2020-08-20,Nova Scotia,Canada,1077.0
+2020-08-20,Ontario,Canada,42983.0
+2020-08-20,Prince Edward Island,Canada,44.0
+2020-08-20,Qinghai,China,18.0
+2020-08-20,Quebec,Canada,61402.0
+2020-08-20,Queensland,Australia,1094.0
+2020-08-20,Reunion,France,996.0
+2020-08-20,Saint Barthelemy,France,16.0
+2020-08-20,Saint Pierre and Miquelon,France,5.0
+2020-08-20,Saskatchewan,Canada,1590.0
+2020-08-20,Shaanxi,China,358.0
+2020-08-20,Shandong,China,827.0
+2020-08-20,Shanghai,China,862.0
+2020-08-20,Shanxi,China,201.0
+2020-08-20,Sichuan,China,628.0
+2020-08-20,Sint Maarten,Netherlands,353.0
+2020-08-20,South Australia,Australia,462.0
+2020-08-20,St Martin,France,121.0
+2020-08-20,Tasmania,Australia,230.0
+2020-08-20,Tianjin,China,216.0
+2020-08-20,Tibet,China,1.0
+2020-08-20,Turks and Caicos Islands,United Kingdom,334.0
+2020-08-20,Victoria,Australia,17852.0
+2020-08-20,Western Australia,Australia,651.0
+2020-08-20,Xinjiang,China,902.0
+2020-08-20,Yukon,Canada,15.0
+2020-08-20,Yunnan,China,195.0
+2020-08-20,Zhejiang,China,1277.0
+2020-08-20,no,Afghanistan,37856.0
+2020-08-20,no,Albania,7967.0
+2020-08-20,no,Algeria,40258.0
+2020-08-20,no,Andorra,1024.0
+2020-08-20,no,Angola,2044.0
+2020-08-20,no,Antigua and Barbuda,94.0
+2020-08-20,no,Argentina,320884.0
+2020-08-20,no,Armenia,42319.0
+2020-08-20,no,Austria,24431.0
+2020-08-20,no,Azerbaijan,34759.0
+2020-08-20,no,Bahamas,1610.0
+2020-08-20,no,Bahrain,48303.0
+2020-08-20,no,Bangladesh,287959.0
+2020-08-20,no,Barbados,156.0
+2020-08-20,no,Belarus,69950.0
+2020-08-20,no,Belgium,80178.0
+2020-08-20,no,Belize,605.0
+2020-08-20,no,Benin,2095.0
+2020-08-20,no,Bhutan,153.0
+2020-08-20,no,Bolivia,106065.0
+2020-08-20,no,Bosnia and Herzegovina,17029.0
+2020-08-20,no,Botswana,1308.0
+2020-08-20,no,Brazil,3501975.0
+2020-08-20,no,Brunei,143.0
+2020-08-20,no,Bulgaria,14962.0
+2020-08-20,no,Burkina Faso,1297.0
+2020-08-20,no,Burma,399.0
+2020-08-20,no,Burundi,422.0
+2020-08-20,no,Cabo Verde,3368.0
+2020-08-20,no,Cambodia,273.0
+2020-08-20,no,Cameroon,18762.0
+2020-08-20,no,Central African Republic,4679.0
+2020-08-20,no,Chad,972.0
+2020-08-20,no,Chile,391849.0
+2020-08-20,no,Colombia,513719.0
+2020-08-20,no,Comoros,417.0
+2020-08-20,no,Congo (Brazzaville),3850.0
+2020-08-20,no,Congo (Kinshasa),9757.0
+2020-08-20,no,Costa Rica,31075.0
+2020-08-20,no,Cote d'Ivoire,17249.0
+2020-08-20,no,Croatia,7329.0
+2020-08-20,no,Cuba,3565.0
+2020-08-20,no,Cyprus,1395.0
+2020-08-20,no,Czechia,21045.0
+2020-08-20,no,Denmark,16056.0
+2020-08-20,no,Diamond Princess,712.0
+2020-08-20,no,Djibouti,5374.0
+2020-08-20,no,Dominica,18.0
+2020-08-20,no,Dominican Republic,89010.0
+2020-08-20,no,Ecuador,105508.0
+2020-08-20,no,Egypt,97025.0
+2020-08-20,no,El Salvador,23964.0
+2020-08-20,no,Equatorial Guinea,4892.0
+2020-08-20,no,Eritrea,306.0
+2020-08-20,no,Estonia,2227.0
+2020-08-20,no,Eswatini,4110.0
+2020-08-20,no,Ethiopia,35836.0
+2020-08-20,no,Fiji,28.0
+2020-08-20,no,Finland,7842.0
+2020-08-20,no,France,242413.0
+2020-08-20,no,Gabon,8319.0
+2020-08-20,no,Gambia,2401.0
+2020-08-20,no,Georgia,1370.0
+2020-08-20,no,Germany,231292.0
+2020-08-20,no,Ghana,43260.0
+2020-08-20,no,Greece,7934.0
+2020-08-20,no,Grenada,24.0
+2020-08-20,no,Guatemala,65983.0
+2020-08-20,no,Guinea,8876.0
+2020-08-20,no,Guinea-Bissau,2149.0
+2020-08-20,no,Guyana,846.0
+2020-08-20,no,Haiti,7997.0
+2020-08-20,no,Holy See,12.0
+2020-08-20,no,Honduras,52819.0
+2020-08-20,no,Hungary,5046.0
+2020-08-20,no,Iceland,2040.0
+2020-08-20,no,India,2905825.0
+2020-08-20,no,Indonesia,147211.0
+2020-08-20,no,Iran,352558.0
+2020-08-20,no,Iraq,192797.0
+2020-08-20,no,Ireland,27676.0
+2020-08-20,no,Israel,99599.0
+2020-08-20,no,Italy,256118.0
+2020-08-20,no,Jamaica,1290.0
+2020-08-20,no,Japan,59900.0
+2020-08-20,no,Jordan,1498.0
+2020-08-20,no,Kazakhstan,104071.0
+2020-08-20,no,Kenya,31441.0
+2020-08-20,no,"Korea, South",16670.0
+2020-08-20,no,Kosovo,11545.0
+2020-08-20,no,Kuwait,78767.0
+2020-08-20,no,Kyrgyzstan,42507.0
+2020-08-20,no,Laos,22.0
+2020-08-20,no,Latvia,1327.0
+2020-08-20,no,Lebanon,10952.0
+2020-08-20,no,Lesotho,996.0
+2020-08-20,no,Liberia,1284.0
+2020-08-20,no,Libya,9707.0
+2020-08-20,no,Liechtenstein,99.0
+2020-08-20,no,Lithuania,2528.0
+2020-08-20,no,Luxembourg,7637.0
+2020-08-20,no,MS Zaandam,9.0
+2020-08-20,no,Madagascar,14154.0
+2020-08-20,no,Malawi,5282.0
+2020-08-20,no,Malaysia,9240.0
+2020-08-20,no,Maldives,6370.0
+2020-08-20,no,Mali,2667.0
+2020-08-20,no,Malta,1510.0
+2020-08-20,no,Mauritania,6848.0
+2020-08-20,no,Mauritius,346.0
+2020-08-20,no,Mexico,543806.0
+2020-08-20,no,Moldova,31937.0
+2020-08-20,no,Monaco,150.0
+2020-08-20,no,Mongolia,298.0
+2020-08-20,no,Montenegro,4229.0
+2020-08-20,no,Morocco,47638.0
+2020-08-20,no,Mozambique,3115.0
+2020-08-20,no,Namibia,4912.0
+2020-08-20,no,Nepal,29645.0
+2020-08-20,no,Netherlands,65054.0
+2020-08-20,no,New Zealand,1665.0
+2020-08-20,no,Nicaragua,4311.0
+2020-08-20,no,Niger,1169.0
+2020-08-20,no,Nigeria,50964.0
+2020-08-20,no,North Macedonia,13194.0
+2020-08-20,no,Norway,10197.0
+2020-08-20,no,Oman,83769.0
+2020-08-20,no,Pakistan,290958.0
+2020-08-20,no,Panama,83855.0
+2020-08-20,no,Papua New Guinea,361.0
+2020-08-20,no,Paraguay,11817.0
+2020-08-20,no,Peru,558420.0
+2020-08-20,no,Philippines,178022.0
+2020-08-20,no,Poland,59378.0
+2020-08-20,no,Portugal,54992.0
+2020-08-20,no,Qatar,116224.0
+2020-08-20,no,Romania,74963.0
+2020-08-20,no,Russia,939833.0
+2020-08-20,no,Rwanda,2717.0
+2020-08-20,no,Saint Kitts and Nevis,17.0
+2020-08-20,no,Saint Lucia,26.0
+2020-08-20,no,Saint Vincent and the Grenadines,58.0
+2020-08-20,no,San Marino,704.0
+2020-08-20,no,Sao Tome and Principe,888.0
+2020-08-20,no,Saudi Arabia,303973.0
+2020-08-20,no,Senegal,12559.0
+2020-08-20,no,Serbia,30209.0
+2020-08-20,no,Seychelles,132.0
+2020-08-20,no,Sierra Leone,1969.0
+2020-08-20,no,Singapore,56099.0
+2020-08-20,no,Slovakia,3102.0
+2020-08-20,no,Slovenia,2536.0
+2020-08-20,no,Somalia,3265.0
+2020-08-20,no,South Africa,599940.0
+2020-08-20,no,South Sudan,2494.0
+2020-08-20,no,Spain,377906.0
+2020-08-20,no,Sri Lanka,2918.0
+2020-08-20,no,Sudan,12582.0
+2020-08-20,no,Suriname,3366.0
+2020-08-20,no,Sweden,85810.0
+2020-08-20,no,Switzerland,39026.0
+2020-08-20,no,Syria,2008.0
+2020-08-20,no,Taiwan*,486.0
+2020-08-20,no,Tajikistan,8203.0
+2020-08-20,no,Tanzania,509.0
+2020-08-20,no,Thailand,3389.0
+2020-08-20,no,Timor-Leste,25.0
+2020-08-20,no,Togo,1212.0
+2020-08-20,no,Trinidad and Tobago,767.0
+2020-08-20,no,Tunisia,2543.0
+2020-08-20,no,Turkey,254520.0
+2020-08-20,no,US,5573847.0
+2020-08-20,no,Uganda,1750.0
+2020-08-20,no,Ukraine,100810.0
+2020-08-20,no,United Arab Emirates,65802.0
+2020-08-20,no,United Kingdom,322280.0
+2020-08-20,no,Uruguay,1506.0
+2020-08-20,no,Uzbekistan,37547.0
+2020-08-20,no,Venezuela,37567.0
+2020-08-20,no,Vietnam,1007.0
+2020-08-20,no,West Bank and Gaza,17989.0
+2020-08-20,no,Western Sahara,10.0
+2020-08-20,no,Yemen,1899.0
+2020-08-20,no,Zambia,10372.0
+2020-08-20,no,Zimbabwe,5745.0
