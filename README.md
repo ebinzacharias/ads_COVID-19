@@ -1,4 +1,4 @@
-ads_COVID-19
+Applied Data Science on COVID-19 data
 ==============================
 
 An applied Data Science project on anaylzing the COVID-19 data.
