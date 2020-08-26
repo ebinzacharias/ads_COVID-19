@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,3 +88,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+=======
+.DS_Store
+>>>>>>> 9503bbf1cd4a65c75c3570f12054db45a29ab11c
