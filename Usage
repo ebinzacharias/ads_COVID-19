@@ -1,0 +1,11 @@
+COVID-19 data as submodule
+
+## While Clone, clone --recursive
+
+## Submodule initialize
+
+git submodule update --init --recursive
+
+or
+
+git pull --recurse-submodules
