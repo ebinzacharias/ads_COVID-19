@@ -1,6 +1,8 @@
-COVID-19 data as submodule
+>> COVID-19 data as submodule
 
-## While Clone, clone --recursive
+## While Clone: 
+
+clone --recursive
 
 ## Submodule initialize
 
