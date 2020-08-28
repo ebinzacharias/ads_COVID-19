@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Applied Data Science on COVID-19 data
 ==============================
 
